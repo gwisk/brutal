@@ -2,7 +2,8 @@
 title: Blogpost 2
 pubDate: Dec 1, 1970
 subtitle: dsd
-author: elias-van-cutsem
+author: John Smith
+bio: John Smith is an emerging writer and he loves films. He's in Chicago. He can be found on Twitter at @johnsmith.
 tags:
   - Astro
   - WebDev

@@ -3,6 +3,7 @@ title: Blogpost 1
 pubDate: Dec 1, 1970
 subtitle: Subtitle
 author: John Smith
+bio: John Smith is an emerging writer and he loves films. He's in Chicago. He can be found on Twitter at @johnsmith.
 tags:
   - JavaScript
   - Astro
@@ -10,7 +11,7 @@ tags:
 imgUrl: https://i.imgur.com/iGvihVf.jpg
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 layout: '../../layouts/BlogPost.astro'
-header: 'banner1.webp'
+header: 'banner1.jpg'
 ---
 
 ## Deorum petiit ignis

@@ -18,11 +18,11 @@ const posts = await getCollection('blog').then((posts) =>
 <section class='mt-8'>
   <Card>
     <div class='flex justify-between items-start'>
-      <h2 class='text-2xl md:text-4xl lg:text-6xl mb-8'>
+      <h2 class='poppins text-2xl md:text-4xl lg:text-6xl mb-8'>
         Recent Articles
       </h2>
       <div class='hidden md:block'>
-        <Button href='/blog/'>Go to blog &rarr;</Button>
+        <Button href='/blog/'><p class="poppins">Go to blog &rarr;</p></Button>
       </div>
       <div class='block md:hidden'>
         <Button href='/blog/'>to blog</Button>
