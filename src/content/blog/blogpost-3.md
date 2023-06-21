@@ -1,14 +1,17 @@
 ---
 title: Blogpost 3
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-pubDate: 2023-02-14 23:49
-author: Elian Van Cutsem
+pubDate: Dec 1, 1970
+subtitle: dsd
+author: elias-van-cutsem
 tags: 
   - CSS
   - Astro
   - Vite
 imgUrl: https://i.imgur.com/iGvihVf.jpg
 layout: ../../layouts/BlogPost.astro
+header: 'banner1.jpg'
+
 ---
 
 ## Deorum petiit ignis

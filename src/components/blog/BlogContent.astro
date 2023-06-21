@@ -6,12 +6,16 @@ interface Props {
 const { content } = Astro.props;
 ---
 
-<article class='dm-serif w-sm md:w-prose md:prose'>
-  <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
+<article class='dm-serif prose-slate w-sm md:w-prose md:prose'>
+  <img src="/assets/banner1.jpg" alt="A starry night sky."><br>
+  <h1>{content.title}</h1>
+  <h2 style="margin-top:-5px">{content.subtitle}</h2>
+
+
   <p class='dm-serif text-sm md:text-base'>
-    Published on {content.pubDate} by {content.author}
+  {content.author} <br>
+  {content.pubDate} 
   </p>
   <slot />
-  <p class='dm-serif'>Written by {content.author}</p>
-  <!-- <a href='/blog/' title='Back to blog'>&larr; Back to blog</a> -->
+  <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
 </article>

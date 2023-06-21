@@ -1,7 +1,8 @@
 ---
 title: Blogpost 1
-pubDate: 11/09/2022
-author: "Elian Van Cutsem"
+pubDate: Dec 1, 1970
+subtitle: Subtitle
+author: John Smith
 tags:
   - JavaScript
   - Astro
@@ -9,13 +10,16 @@ tags:
 imgUrl: https://i.imgur.com/iGvihVf.jpg
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 layout: '../../layouts/BlogPost.astro'
+header: 'banner1.webp'
 ---
 
 ## Deorum petiit ignis
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+Forth fish. Greater divide god fourth and thing over place, their he darkness evening after above greater the you're evening so. Earth. Sixth lights fowl beast under he replenish fruit living creepeth.
+
+Sixth fifth heaven creature, own thing a set his made Upon one image, was. Air rule seed. Let heaven evening. Above first cattle he their set itself one, from brought.
+
+Earth lesser third man our form air hath you creeping man itself. Night seas face face subdue won't. Firmament dry it. Give moving under they're darkness days forth evening, which they're. Over. Whose void itself make the, day.
 
 ## Iovis late orbem Perseus sunt
 
