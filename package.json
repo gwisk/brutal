@@ -23,14 +23,15 @@
     "@eliancodes/brutal-ui": "^0.2.2",
     "astro": "^2.6.1",
     "satori": "^0.5.0",
-    "satori-html": "^0.3.2"
+    "satori-html": "^0.3.2",
+    "teenyicons": "^0.4.1"
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.31",
     "@iconify-json/teenyicons": "^1.1.5",
     "@iconify-json/uil": "^1.1.4",
     "@typescript-eslint/parser": "^5.59.9",
-    "@unocss/preset-icons": "^0.53.1",
+    "@unocss/preset-icons": "^0.53.3",
     "@unocss/reset": "^0.53.1",
     "eslint": "^8.42.0",
     "eslint-plugin-astro": "^0.27.1",
