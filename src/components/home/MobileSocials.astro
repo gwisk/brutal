@@ -11,14 +11,15 @@ const socials = [
     icon: 'i-teenyicons-twitter-solid',
   },
 
-  { name: 'Patreon',
-    url: '',
-    icon: 'i-teenyicons-patreon-solid'},
-
-    {
+  {
     name: 'Youtube',
     url: 'https://www.youtube.com/',
     icon: 'i-teenyicons-youtube-solid',
+  },
+
+  { name: 'Patreon',
+    url: '',
+    icon: 'i-teenyicons-patreon-solid'
   },
   // {
   //   name: 'LinkedIn',
@@ -33,9 +34,9 @@ const socials = [
   <ul class='flex justify-between'>
     {
       socials.map((item) => (
-        <li class='bg-white px-3 py-3 text-black border-black border-2 rounded card-shadow'>
+        <li class='bg-white px-7 py-2 text-black border-black border-2 rounded card-shadow'>
           <a href={item.url} target='_blank' title={`Go to ${item.name}`}>
-            <div class:list={[item.icon, 'p-6']} />
+            <div class:list={[item.icon, 'p-5']} />
           </a>
         </li>
       ))
