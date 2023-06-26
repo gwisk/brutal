@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
+import { remarkReadingTime } from './remark-reading-time.mjs';
 
 export default defineConfig({
   // used to generate images
@@ -12,4 +13,7 @@ export default defineConfig({
       : 'https://localhost:3001/',
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({ injectReset: true })],
+  markdown : {
+    remarkPlugins: [remarkReadingTime],
+  }
 });
