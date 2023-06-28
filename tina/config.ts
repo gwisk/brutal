@@ -35,6 +35,12 @@ export default defineConfig({
           },
           {
             type: "string",
+            name: "subtitle",
+            label: "Subtitle",
+            required: true,
+          },
+          {
+            type: "string",
             name: "author",
             label: "Author",
             required: true,
