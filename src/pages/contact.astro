@@ -1,0 +1,34 @@
+---
+import Layout from '@layouts/Default.astro';
+import { Card } from '@eliancodes/brutal-ui';
+---
+
+<Layout
+  title='About Us'
+  description='Glad you asked!'
+  classList='h-full'
+  pageTitle='About Us'
+>
+
+<main class='bg-white px-6 py-5'>
+    <section id='about' class='grid md:grid-cols-4 gap-8 mt-4'>
+        <div class='col-span-4'>
+          <Card>
+            <div class='flex flex-col justify-between items-start gap-4'>
+              <p class='mt-4 outfit text-2xl md:text-5xl lg:text-6xl'>
+                What is PLACE? Who are we?
+              </p>
+              <p class='md:text-2xl lg:text-2xl'>
+                We're a new film review site, a passion project by Ali El-Sadany and George Iskander.
+                We like to think we're not pretentious about it — but we are crazy about it.
+                <br><br>
+                Cinema is for the people, not the ivory tower. So why is the world of film critique couched in the language of scholasticism? Cinema was made for the theater but is experienced at home, on bootlegs, camrips, and decade-old 240p YouTube uploads. 
+                <br><br>
+                Cinema intersects with every human expression: our literature, our music, hell, even what we eat. Here at PLACE, we welcome, more than anything, <i>your </i> story about the cinema. We welcome creative, critical (and critical-creative!) prose and poetry pieces about film. 
+              </p>
+            </div>
+          </Card>
+        </div>
+      </section>
+  </main>
+</Layout>

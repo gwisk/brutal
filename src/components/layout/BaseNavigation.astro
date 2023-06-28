@@ -1,8 +1,10 @@
 ---
+
+import 'src/styles/global.css'
 const navigationItems = [
  // { name: 'Home', url: '/' },
-  { name: 'About', url: '/about/' },
- // { name: 'Contact', url: '/contact/' },
+ { name: 'About', url: '/about/' },
+ { name: 'Contact', url: '/contact/' },
   // { name: 'Blog', url: '/blog/' },
 ];
 
@@ -17,6 +19,11 @@ const socialIcons = [
     url: 'https://www.twitter.com/',
     icon: 'i-teenyicons-twitter-solid',
   },
+  // {
+  //   name: 'Contact',
+  //   url: '/contact/',
+  //   icon: 'i-teenyicons-envelope-solid',
+  // },
   { name: 'YouTube',
     url: 'https://www.youtube.com',
     icon: 'i-teenyicons-youtube-solid'},
@@ -71,10 +78,11 @@ const { pageTitle } = Astro.props;
       }
     </ul>
   </nav>
-  <nav class='md:hidden flex'>
+  <nav class='block md:hidden flex flex-row-reverse gap-4'>
     <h2 class='hidden'>Mobile Navigation</h2>
     <ul>
-      <li><a href='/about/' class="poppins">About</a></li>
+      <li><a href='/about/' class="font-medium">About</a></li>
+      <!-- <li><a href='/contact/' class="font-medium">Contact</a></li> -->
     </ul>
   </nav>
 </header>
