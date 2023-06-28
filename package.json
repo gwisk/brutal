@@ -4,11 +4,8 @@
   "private": false,
   "type": "module",
   "author": {
-    "name": "Elian Van Cutsem",
-    "email": "hello@elian.codes",
-    "url": "https://www.elian.codes/"
+    "name": "George Iskander, Ali El-Sadany",
   },
-  "homepage": "https://brutal.elian.codes",
   "scripts": {
     "dev": "tinacms dev -c 'astro dev'",
     "start": "astro dev",
