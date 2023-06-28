@@ -41,6 +41,12 @@ export default defineConfig({
           },
           {
             type: "string",
+            name: "bio",
+            label: "Author bio",
+            required: true,
+          },
+          {
+            type: "string",
             name: "author",
             label: "Author",
             required: true,
@@ -54,13 +60,13 @@ export default defineConfig({
           {
             type: "string",
             name: "pubDate",
-            label: "Date Posted",
+            label: "Date Posted (e.g. Nov. 10, 2020)",
             required: true,
           },
           {
             type: "string",
             name: "imgUrl",
-            label: "Image URL",
+            label: "Banner Image URL",
             required: true,
           },
           {
