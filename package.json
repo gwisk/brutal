@@ -17,6 +17,7 @@
     "@astrojs/image": "^0.17.1",
     "@astrojs/rss": "^2.4.3",
     "@astrojs/sitemap": "^1.3.3",
+    "@astrojs/vercel": "^3.5.1",
     "@eliancodes/brutal-ui": "^0.2.2",
     "@tinacms/cli": "^1.5.21",
     "@vercel/analytics": "^1.0.1",

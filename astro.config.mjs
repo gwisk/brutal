@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
 import { remarkReadingTime } from './remark-reading-time.mjs';
 import partytown from "@astrojs/partytown";
+import vercel from '@astrojs/vercel/serverless';
 import compress from "astro-compress";
 
 // https://astro.build/config
@@ -19,5 +20,9 @@ export default defineConfig({
   }), compress()],
   markdown: {
     remarkPlugins: [remarkReadingTime]
-  }
+  },
+  output: 'server',
+  adapter: vercel({
+    analytics: true,
+  }),
 });
