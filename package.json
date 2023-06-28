@@ -4,7 +4,7 @@
   "private": false,
   "type": "module",
   "author": {
-    "name": "George Iskander, Ali El-Sadany",
+    "name": "George Iskander, Ali El-Sadany"
   },
   "scripts": {
     "dev": "tinacms dev -c 'astro dev'",
