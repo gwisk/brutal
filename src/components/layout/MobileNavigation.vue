@@ -36,7 +36,7 @@
 		<div v-if="menuOpen">
 			<ul class="flex gap-4">
 				<li v-for="item in items" key="item.url">
-					<a :href="item.url">{{ item.name }}</a>
+					<a :href="item.url" class="poppins font-medium">{{ item.name }}</a>
 				</li>
 			</ul>
 		</div>
