@@ -1,4 +1,6 @@
 ---
+import { Img } from "astro-imagetools/components";
+
 interface Props {
   title: string;
   imgSrc: string;
@@ -14,7 +16,7 @@ const { title, imgAlt, imgSrc, description } = Astro.props;
 >
   <h2 class='dm-serif text-lg md:text-3xl'>{title}</h2>
   <div class='rounded-lg border-3f border-black my-4 h-56'>
-    <img
+    <Img
       src={imgSrc}
       alt={imgAlt}
       width={800}

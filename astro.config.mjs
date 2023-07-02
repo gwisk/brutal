@@ -2,8 +2,8 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
 import { remarkReadingTime } from './remark-reading-time.mjs';
-import partytown from "@astrojs/partytown";
 import compress from "astro-compress";
+import { astroImageTools } from "astro-imagetools";
 
 import vue from "@astrojs/vue";
 
@@ -14,11 +14,7 @@ export default defineConfig({
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({
     injectReset: true
-  }), partytown({
-    config: {
-      forward: ["datalayer.push"]
-    }
-  }), compress(), vue()],
+  }), vue(), astroImageTools, compress()],
   markdown: {
     remarkPlugins: [remarkReadingTime]
   }

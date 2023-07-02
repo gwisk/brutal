@@ -2,10 +2,7 @@
 import MobileNavigation from "./MobileNavigation.vue";
 
 const navigationItems = [
- // { name: 'Home', url: '/' },
- { name: 'About', url: '/about/' },
-//  { name: 'Contact', url: '/contact/' },
-  // { name: 'Blog', url: '/blog/' },
+{ name: 'About', url: '/about/' },
 ];
 
 const socialIcons = [
@@ -26,7 +23,6 @@ const socialIcons = [
     url: '',
     icon: 'i-ph-patreon-logo-fill'
   },
-  // { name: 'RSS', url: '/feed.xml', icon: 'i-uil-rss' },
 ];
 
 interface Props {
@@ -73,12 +69,6 @@ const { pageTitle } = Astro.props;
       }
     </ul>
   </nav>
-  <!-- <nav class='block md:hidden flex flex-row-reverse gap-4'>
-    <h2 class='hidden'>Mobile Navigation</h2>
-    <ul>
-      <li><a href='/about/' class="font-medium">About</a></li>
-    </ul>
-  </nav> -->
 
   <MobileNavigation items={navigationItems} socials={socialIcons} client:load />
 </header>
