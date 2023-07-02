@@ -7,7 +7,7 @@ const { content } = Astro.props;
 ---
 
 <article class='prose-slate w-sm md:w-prose md:prose'>
-  <img src={content.imgUrl} class='rounded object-cover'><br>
+  <img src={content.imgUrl} class='rounded object-cover' alt="Banner">
   <h1 class="dm-serif">{content.title}</h1>
   <h2 class="dm-serif" style="margin-top:-5px">{content.subtitle}</h2>
   <h3 class='dm-serif'>
