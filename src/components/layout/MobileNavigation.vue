@@ -40,6 +40,13 @@
 				</li>
 			</ul>
 		</div>
+		<!-- <div v-if="menuOpen">
+			<ul class="flex gap-4">
+				<li v-for="item in socials" key="item.icon">
+					<a :href="item.url">{{ item.name }}</a>
+				</li>
+			</ul> 	
+		</div> -->
 	</nav>
 </template>
 
