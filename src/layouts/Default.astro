@@ -3,6 +3,16 @@ import BaseNavigation from '@components/layout/BaseNavigation.astro';
 import BaseFooter from '@components/layout/BaseFooter.astro';
 import BaseHead from '@components/layout/BaseHead.astro';
 
+import '@fontsource/bungee';
+import '@fontsource/dm-serif-text';
+import '@fontsource/averia-serif-libre'
+import '@fontsource/poppins/300.css'
+import '@fontsource/poppins/400.css'
+import '@fontsource/poppins/500.css'
+import '@fontsource/sanchez'
+import '@fontsource/outfit/400.css'
+import '@fontsource/outfit/500.css'
+
 interface Props {
   title: string;
   description: string;
@@ -28,15 +38,15 @@ const { title, description, classList, pageTitle, ogImage } = Astro.props;
       .outfit {
         font-family: 'Outfit', sans-serif;
       }
-      .righteous {
+      /* .righteous {
         font-family: 'Righteous', sans-serif;
-      }
+      } */
       .dm-serif {
         font-family: 'DM Serif Text', serif;
       }
-      .fredoka {
+      /* .fredoka {
         font-family: 'Fredoka One', sans-serif;
-      }
+      } */
       .poppins {
         font-family: 'Poppins', sans-serif;
       }
