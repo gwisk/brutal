@@ -1,6 +1,6 @@
 ---
 title: Blogpost 1
-pubDate: 'Dec 1, 1970'
+pubDate: 'Dec 1, 1980'
 subtitle: Subtitle
 author: John Smith
 bio: >-

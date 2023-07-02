@@ -1,6 +1,6 @@
 ---
 title: Blogpost 2
-pubDate: 'Dec 1, 1970'
+pubDate: 'Dec 1, 1990'
 subtitle: dsd
 author: John Smith
 bio: >-

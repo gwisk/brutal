@@ -42,7 +42,7 @@ export default defineConfig({
           {
             type: "string",
             name: "bio",
-            label: "Author bio",
+            label: "Author Bio",
             required: true,
           },
           {
@@ -60,7 +60,7 @@ export default defineConfig({
           {
             type: "string",
             name: "pubDate",
-            label: "Date Posted (e.g. Nov. 10, 2020)",
+            label: "Date Posted (e.g. Nov 10, 2020)",
             required: true,
           },
           {

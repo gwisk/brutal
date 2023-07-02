@@ -1,12 +1,18 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BlogSummaryCard from './BlogSummaryCard.astro';
 
 interface Props {
-  posts: CollectionEntry<'blog'>[];
+  count?: number;
 }
 
-const { posts } = Astro.props;
+const { count } = Astro.props;
+
+const posts = await getCollection("blog").then((collection) => {
+	return collection
+		.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+});
 ---
 
 <ul class='grid md:grid-cols-2 lg:grid-cols-3 gap-8'>
