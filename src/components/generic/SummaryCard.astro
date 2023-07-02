@@ -6,15 +6,18 @@ interface Props {
   imgSrc: string;
   imgAlt: string;
   description: string;
+  pubDate: string;
 }
+
 import { Card } from '@eliancodes/brutal-ui';
-const { title, imgAlt, imgSrc, description } = Astro.props;
+
+const { title, imgAlt, imgSrc, pubDate, description } = Astro.props;
 ---
 
 <Card
   color="white"
 >
-  <h2 class='dm-serif text-lg md:text-3xl'>{title}</h2>
+  <h2 class='dm-serif text-lg md:text-3xl'>{title}</h2>  <p class="poppins text-slate-600">{pubDate}</p>
   <div class='rounded-lg border-3f border-black my-4 h-56'>
     <Img
       src={imgSrc}

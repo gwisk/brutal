@@ -16,6 +16,7 @@ const { post } = Astro.props;
   imgAlt={post.data.title}
   imgSrc={post.data.imgUrl}
   description={post.data.description}
+  pubDate={post.data.pubDate}
 >
   <div class='flex justify-end my-4'>
     </p><Button href={`/blog/${post.slug}/`}><p class='poppins'>Read post &rarr;</p></Button>
