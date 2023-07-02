@@ -5,6 +5,8 @@ import { remarkReadingTime } from './remark-reading-time.mjs';
 import partytown from "@astrojs/partytown";
 import compress from "astro-compress";
 
+import vue from "@astrojs/vue";
+
 // https://astro.build/config
 export default defineConfig({
   // used to generate images
@@ -16,7 +18,7 @@ export default defineConfig({
     config: {
       forward: ["datalayer.push"]
     }
-  }), compress()],
+  }), compress(), vue()],
   markdown: {
     remarkPlugins: [remarkReadingTime]
   }

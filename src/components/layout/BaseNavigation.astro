@@ -1,6 +1,6 @@
 ---
+import MobileNavigation from "./MobileNavigation.vue";
 
-import 'src/styles/global.css'
 const navigationItems = [
  // { name: 'Home', url: '/' },
  { name: 'About', url: '/about/' },
@@ -44,7 +44,7 @@ const { pageTitle } = Astro.props;
 <header class='border-b-4 border-black flex justify-between p-6 items-center'>
   {pageTitle && <h1 class='hidden'>{pageTitle}</h1>}
   <a href='/' title='Back to Home'>
-    <p class='righteous md:text-5xl hover:drop-shadow-md'>PLACE</p>
+    <p class='righteous md:text-5xl hover:drop-shadow-md'>FILMSLOP</p>
   </a>
   <nav class='hidden md:inline-block'>
     <h2 class='hidden'>Navigation</h2>
@@ -78,11 +78,12 @@ const { pageTitle } = Astro.props;
       }
     </ul>
   </nav>
-  <nav class='block md:hidden flex flex-row-reverse gap-4'>
+  <!-- <nav class='block md:hidden flex flex-row-reverse gap-4'>
     <h2 class='hidden'>Mobile Navigation</h2>
     <ul>
       <li><a href='/about/' class="font-medium">About</a></li>
-      <!-- <li><a href='/contact/' class="font-medium">Contact</a></li> -->
     </ul>
-  </nav>
+  </nav> -->
+
+  <MobileNavigation items={navigationItems} socials={socialIcons} client:load />
 </header>
