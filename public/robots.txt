@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
 Host: https://filmslop.com
 Sitemap: https://filmslop.com/sitemap-index.xml
