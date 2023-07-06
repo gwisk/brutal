@@ -15,8 +15,8 @@ export const get: APIRoute = async () => {
   const bgColor =
     Config.colors[Math.floor(Math.random() * Config.colors.length)];
   // console.log(request);
-  const title = 'Brutal, a theme for Astro.';
-  const link = 'https://brutal.elian.codes';
+  const title = 'FilmSlop, a new film review site.';
+  const link = 'https://filmslop.com';
 
   const html = toReactElement(`
   <div style="background-color: ${bgColor}; display: flex; flex-direction: column; height: 100%; padding: 3rem; width: 100%">

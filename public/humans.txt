@@ -1,6 +1,6 @@
-## Brutal Theme ##
+## FilmSlop ##
 
-All development & Content by Elian Van Cutsem
+Created by George Iskander and Ali El-Sadany, theme by Elian Van Cutsem
 
-- email: hello@elian.codes
-- website: www.elian.codes
+- email: contact@filmslop.com
+- website: www.filmslop.com

@@ -1,5 +1,5 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+// import type { CollectionEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import BlogSummaryCard from './BlogSummaryCard.astro';
 
@@ -7,7 +7,7 @@ interface Props {
   count?: number;
 }
 
-const { count } = Astro.props;
+// const { count } = Astro.props;
 
 const posts = await getCollection("blog").then((collection) => {
 	return collection
