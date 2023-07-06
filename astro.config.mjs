@@ -4,8 +4,9 @@ import UnoCSS from 'unocss/astro';
 import { remarkReadingTime } from './remark-reading-time.mjs';
 import compress from "astro-compress";
 import { astroImageTools } from "astro-imagetools";
-
 import vue from "@astrojs/vue";
+
+import robotsTxt from "astro-robots-txt";
 
 // https://astro.build/config
 export default defineConfig({
@@ -14,7 +15,7 @@ export default defineConfig({
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({
     injectReset: true
-  }), vue(), astroImageTools, compress()],
+  }), vue(), astroImageTools, robotsTxt(), compress()],
   markdown: {
     remarkPlugins: [remarkReadingTime]
   }
