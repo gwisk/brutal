@@ -13,7 +13,6 @@ export default defineConfig({
   // used to generate images
   site: process.env.VERCEL_ENV === 'production' ? 'https://www.filmslop.com/' : process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}/` : 'https://localhost:3001/',
   trailingSlash: 'ignore',
-  site: 'https://www.filmslop.com',
   integrations: [sitemap(), UnoCSS({
     injectReset: true
   }), vue(), astroImageTools, robotsTxt(), compress()],
