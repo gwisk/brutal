@@ -21,11 +21,13 @@ const { title, description, ogImage } = Astro.props;
   <meta name='viewport' content='width=device-width, initial-scale=1' />
   <meta name='generator' content={Astro.generator} />
 
-  <link
+  <link rel="sitemap" href="/sitemap-index.xml" />
+
+  <!-- <link
     rel='alternate'
     href='https://www.filmslop.com/blog.xml'
     type='application/rss+xml'
-  />
+  /> -->
 
   <meta name='title' content={`FilmSlop | ${title}`} />
   <meta name='description' content={description} />
