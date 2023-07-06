@@ -18,5 +18,10 @@ export default defineConfig({
   }), vue(), astroImageTools, robotsTxt(), compress()],
   markdown: {
     remarkPlugins: [remarkReadingTime]
-  }
+  },
+  vite: {
+		optimizeDeps: {
+			exclude: ["@resvg/resvg-js"],
+		},
+	},
 });
