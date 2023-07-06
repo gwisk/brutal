@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
-Host: https://brutal.elian.codes/
-Sitemap: https://brutal.elian.codes/sitemap-index.xml
+Host: https://filmslop.com
+Sitemap: https://filmslop.com/sitemap-index.xml
