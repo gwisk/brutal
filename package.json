@@ -30,10 +30,10 @@
     "astro-compress": "^1.1.47",
     "astro-imagetools": "^0.8.1",
     "astro-robots-txt": "^0.5.0",
-    "mdast-util-to-string": "^3.2.0",
+    "mdast-util-to-string": "^4.0.0",
     "pagefind": "^0.12.0",
     "reading-time": "^1.5.0",
-    "satori": "^0.5.0",
+    "satori": "^0.10.1",
     "satori-html": "^0.3.2",
     "teenyicons": "^0.4.1",
     "tinacms": "^1.5.12",
@@ -51,7 +51,7 @@
     "eslint": "^8.42.0",
     "eslint-plugin-astro": "^0.27.1",
     "eslint-plugin-jsx-a11y": "^6.7.1",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "prettier-plugin-astro": "^0.10.0",
     "unocss": "^0.53.1"
   }
