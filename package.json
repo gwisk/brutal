@@ -45,7 +45,7 @@
     "@iconify-json/ph": "^1.1.5",
     "@iconify-json/teenyicons": "^1.1.5",
     "@iconify-json/uil": "^1.1.4",
-    "@typescript-eslint/parser": "^5.59.9",
+    "@typescript-eslint/parser": "^6.0.0",
     "@unocss/preset-icons": "^0.53.4",
     "@unocss/reset": "^0.53.1",
     "eslint": "^8.42.0",
