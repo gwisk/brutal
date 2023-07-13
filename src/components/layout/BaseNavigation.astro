@@ -35,7 +35,7 @@ const { pageTitle } = Astro.props;
 <header class='border-b-4 border-black flex justify-between p-6 items-center'>
   {pageTitle && <h1 class='hidden'>{pageTitle}</h1>}
   <a href='/' title='Back to Home'>
-    <p class='bungee md:text-5xl hover:scale-101 transition-all duration-150 ease-in-out'>FILMSLOP</p>
+    <p class='bungee md:text-5xl hover:scale-97 transition-all duration-150 ease-in-out'>FILMSLOP</p>
   </a>
   <nav class='hidden md:inline-block'>
     <h2 class='hidden'>Navigation</h2>
@@ -48,7 +48,7 @@ const { pageTitle } = Astro.props;
               href={item.url}
               title={`Go to ${item.name}`}
             >
-              {item.name}
+            <div class ="hover:scale-97">  {item.name} </div>
             </a>
           </li>
         ))
@@ -58,11 +58,11 @@ const { pageTitle } = Astro.props;
           <li>
             <a
               href={item.url}
-              class='hover:text-red hover:underline transition-all duration-150 ease-in-out'
+              class='hover:text-red hover:scale-10 transition-all duration-150 ease-in-out'
               target='_blank'
               // title={`'See @ElianCodes on ${item.name}`}
             >
-              <div class:list={[item.icon, 'w-7 h-7']} />
+              <div class:list={[item.icon, "hover:scale-97", 'w-7 h-7']} />
             </a>
           </li>
         ))
