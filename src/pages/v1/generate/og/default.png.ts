@@ -1,5 +1,6 @@
 import type { APIRoute } from "astro";
 import satori from "satori";
+import { Config } from '@eliancodes/brutal-ui';
 import { html as toReactElement } from "satori-html";
 import { ResvgRenderOptions, Resvg } from "@resvg/resvg-js";
 
@@ -13,19 +14,19 @@ const height = 630;
 const width = 1200;
 
 export const get: APIRoute = async () => {
-	const link = "https://www.elian.codes";
+	const bgColor = Config.colors[Math.floor(Math.random() * Config.colors.length)];
+	const link = "https://www.filmslop.com";
 	const html = toReactElement(`
-  <div style="background-color: white; display: flex; flex-direction: column; height: 100%; padding: 3rem; width: 100%">
+  <div style="background-color: ${bgColor}; display: flex; flex-direction: column; height: 100%; padding: 3rem; width: 100%">
     <div style="display:flex; height: 100%; width: 100%; background-color: white; border: 6px solid black; border-radius: 0.5rem; padding: 2rem; filter: drop-shadow(6px 6px 0 rgb(0 0 0 / 1));">
       <div style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; filter: drop-shadow()">
         <div style="display: flex; flex-direction: column; gap: 0.75rem;">  
-          <p style="font-size: 48px;">ElianCodes</p>
-          <p style="font-size: 38px;">Software Engineer <span>@vBridge</span></p>
-          <p style="font-size: 38px;">Ambassador & Maintainer <span>@Astro</span></p>
+          <p style="font-size: 48px;">FilmSlop</p>
+		  <p style="font-size: 32px;">a new film review site</p>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: baseline; padding-top: -2rem;">
           <p style="font-size: 32px">${link}</p>
-          <img src="https://www.elian.codes/assets/img/elian.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <img src=""data:,"" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
         </div>
       </div>
     </div>
