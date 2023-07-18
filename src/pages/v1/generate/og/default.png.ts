@@ -15,7 +15,7 @@ const width = 1200;
 
 export const get: APIRoute = async () => {
 	const bgColor = Config.colors[Math.floor(Math.random() * Config.colors.length)];
-	const link = "https://www.filmslop.com";
+	const link = "filmslop.com";
 	const html = toReactElement(`
   <div style="background-color: ${bgColor}; display: flex; flex-direction: column; height: 100%; padding: 3rem; width: 100%">
     <div style="display:flex; height: 100%; width: 100%; background-color: white; border: 6px solid black; border-radius: 0.5rem; padding: 2rem; filter: drop-shadow(6px 6px 0 rgb(0 0 0 / 1));">

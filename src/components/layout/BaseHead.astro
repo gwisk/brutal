@@ -28,7 +28,7 @@ const { title, description, ogImage } = Astro.props;
     href="https://www.filmslop.com/blog.xml"
     type="application/rss+xml"
   /> -->
-
+  <title> FilmSlop | {title}</title>
   <meta name="title" content={`FilmSlop | ${title}`} />
   <meta name="description" content={description} />
 
@@ -36,12 +36,14 @@ const { title, description, ogImage } = Astro.props;
   <meta name="og:url" content={canonicalURL} />
   <meta name="og:title" content={title} />
   <meta name="og:description" content={description} />
-  <meta name="og:image" content={ogImage} />
+  <meta name="og:image" content="www.filmslop.com/public/card.png" />
   <!-- <meta name="og:image:alt" content="FilmSlop social image"/> -->
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
-  <meta name="twitter:image" content={ogImage} />
+  <meta name="twitter:image" content="www.filmslop.com/public/card.png" />
+  <meta property="twitter:description" content="{description}" />
+
   <!-- <meta name="twitter:url" content={canonicalURL} /> -->
 
   <!-- <meta name="twitter:image:alt" content="The FilmSlop social image" /> -->
@@ -55,8 +57,6 @@ const { title, description, ogImage } = Astro.props;
 	<meta name="msapplication-TileImage" content="/favicon.svg" />
 	<meta name="theme-color" content="#ffffff" />
 	<meta name="theme-color" content="#6ee7b7" />
-
-  <title> FilmSlop | {title}</title>
 
   <!-- fonts -->
   <!-- <link rel="preconnect" href="https://fonts.bunny.net">
