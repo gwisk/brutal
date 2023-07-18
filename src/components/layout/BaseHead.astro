@@ -36,13 +36,13 @@ const { title, description, ogImage } = Astro.props;
   <meta name="og:url" content={canonicalURL} />
   <meta name="og:title" content={title} />
   <meta name="og:description" content={description} />
-  <meta name="og:image" content="www.filmslop.com/public/card.png" />
+  <meta name="og:image" content={ogImage} />
   <!-- <meta name="og:image:alt" content="FilmSlop social image"/> -->
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:image" content="www.filmslop.com/public/card.png" />
-  <meta property="twitter:description" content="{description}" />
+  <meta property="twitter:description" content={ogImage} />
 
   <!-- <meta name="twitter:url" content={canonicalURL} /> -->
 
