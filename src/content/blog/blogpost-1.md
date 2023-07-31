@@ -22,8 +22,6 @@ header: banner1.jpg
 
 *sickness comes when the wheels quit turning*
 
-\* \*
-
 *My toes don’t have to squeeze the same earth*
 
 *where I ripped out my roots because I swallowed*
