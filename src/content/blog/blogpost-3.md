@@ -4,7 +4,7 @@ description: Exploring grief through Guillermo Del Toro's Pinocchio (2022)
 pubDate: 'August 2, 2023'
 subtitle: Exploring grief through Guillermo Del Toro's Pinocchio (2022)
 author: Huda Ismail
-bio: Huda Ismail is a writer and critic based in Egypt.
+bio: Huda Ismail is a writer and critic based in Egypt. She tweets from @hudawrites_.
 tags:
   - Pinocchio
   - Grief
