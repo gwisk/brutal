@@ -1,5 +1,5 @@
 ---
-title: No Hard Feelings
+title: No Hard Feelings and the Tourist Town
 pubDate: 'August 2, 2023'
 subtitle: A powerful exploration of change and home through No Hard Feelings (2023)
 author: Maggie Burke
@@ -14,41 +14,37 @@ layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
 
-Tourist Town
+*I run from the town that raised me*
 
- 
+*out of fear of becoming stuck*
 
-I run from the town that raised me
+*keep moving if only to feel motion*
 
-out of fear of becoming stuck
+*sickness comes when the wheels quit turning*
 
-keep moving if only to feel motion
+* *
 
-sickness comes when the wheels quit turning
+*My toes don’t have to squeeze the same earth*
 
- 
+*where I ripped out my roots because I swallowed*
 
-My toes don’t have to squeeze the same earth
+*these seeds and watered them with tears*
 
-where I ripped out my roots because I swallowed
+*from every goodbye and without knowing I grew*
 
-these seeds and watered them with tears
+*to become the thing I always hated most*
 
-from every goodbye and without knowing I grew
+*And when people run from me*
 
-to become the thing I always hated most
+*out of fear of becoming stuck*
 
-And when people run from me
+*I long for any sense of home, whispering*
 
-out of fear of becoming stuck
+*my apologies to the ocean shores and beach resorts*
 
-I long for any sense of home, whispering
+*who never meant to make me feel trapped and*
 
-my apologies to the ocean shores and beach resorts
-
-who never meant to make me feel trapped and
-
-I wish more than anything that I could’ve loved them back
+*I wish more than anything that I could’ve loved them back*
 
 When walking into a romcom like No Hard Feelings, the last thing you expect is to be confronted with a character whose depth and complexity is not only fun to watch but is driven by an external conflict closer to home than anticipated. Unfortunately, no one has ever offered me a car to sleep with their sweet-yet-shy son (yet), but Jennifer Lawrence’s character, Maddie, felt like a glimpse into my future had I fallen victim to the comfort of never leaving home.
 
