@@ -3,12 +3,16 @@ title: My "Before" Moment
 pubDate: 'August 2, 2023'
 subtitle: Before Sunrise
 author: Caleb Hamilton
-bio: Caleb Hamilton is an emerging writer based in __?
+bio: >-
+  Caleb Cahill is a photographer and proud cat dad from Washington, DC. When
+  he’s not taking photos, you can find him at the movie theater, the ramen shop
+  or the airport boarding yet another flight. Follow him on Instagram
+  @darthgroudon.
 tags:
   - Before Sunrise
   - Love
   - Confidence
-imgUrl: 'https://i.imgur.com/iGvihVf.jpg'
+imgUrl: 'https://i.imgur.com/OOzlmKc.jpg'
 description: Using the power of Linklater's Before Sunrise (1995) to find confidence
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
@@ -41,5 +45,3 @@ She was impressed with my Italian. “How do you know so much?” She asked. I�
 There was no kiss at a famous landmark. No dramatic promise to meet again at the same location a few months later. I’m not at all upset that these two experiences did not end exactly as it did for Jesse and Céline in Before Sunrise. I’m grateful to Valeria and Juliet for sharing their time with me. Especially Juliet who didn’t have to let some strange man sit with her. Spending time with them both gave me an incredible boost to my confidence.  It was as if that voice in my head that for years was telling me that there was something seriously wrong with me was suddenly gone. There was nothing wrong with me at all. I wasn’t broken. I wasn’t ugly. I could be charming and funny and interesting. I was hot. I no longer feel like I have to go halfway around the world or be a different person. When I told Tim about all this, he was overjoyed and even called British Airways to try to get me off their no-fly list. It didn’t work out.
 
 My trip lasted a week and in that time I’d taken six planes, two five-hour train rides across Italy, and two trains back and forth from Rome to Naples. In any of those instances, I could have had an encounter with a beautiful woman who would change the course of my trip — and perhaps my life — but she wasn’t there. Not in the skies above Germany on the way to Rome. Not in the third car of the train from the Adriatic Coast, winding through the Italian countryside and mountains. No, embracing your inner Jesse won’t work out all the time. In fact, most of the time you’ll probably just make a nice friend to have a long conversation with as you look at ancient ruins. I’m hopeful that one day I will find the Céline for my Jesse. Whether it be at a bar at home in DC, on a boat in the Mediterranean, or maybe on a train going to Vienna. She’s out there and all I have to do is stay out of my shell, be confident, take a chance and ask “Do you have any idea what they were arguing about?” 
-
-
