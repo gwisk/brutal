@@ -9,7 +9,7 @@ tags:
   - Pinocchio
   - Grief
   - Loss
-imgUrl: 'https://imgur.com/a/UM0x98a'
+imgUrl: 'https://i.imgur.com/rlehfP4.jpeg'
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
