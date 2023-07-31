@@ -89,7 +89,7 @@ export default defineConfig({
           {
             type: "rich-text",
             name: "body",
-            label: "Body",
+            label: "Article text (for new lines, use HTML <br> tag)",
             isBody: true,
           },
         ],
