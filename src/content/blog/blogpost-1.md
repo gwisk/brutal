@@ -20,7 +20,9 @@ header: banner1.jpg
 
 *keep moving if only to feel motion*
 
-*sickness comes when the wheels quit turning* <br>
+*sickness comes when the wheels quit turning* 
+
+<br>
 
 *My toes don’t have to squeeze the same earth*
 
@@ -30,7 +32,9 @@ header: banner1.jpg
 
 *from every goodbye and without knowing I grew*
 
-*to become the thing I always hated most* <br>
+*to become the thing I always hated most* 
+
+<br>
 
 *And when people run from me*
 
