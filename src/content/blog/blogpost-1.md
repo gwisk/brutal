@@ -1,5 +1,5 @@
 ---
-title: No Hard Feelings and the Tourist Town
+title: Tourist Town
 pubDate: 'August 2, 2023'
 subtitle: A powerful exploration of change and home through No Hard Feelings (2023)
 author: Maggie Burke
@@ -22,7 +22,7 @@ header: banner1.jpg
 
 *sickness comes when the wheels quit turning*
 
-* *
+\* \*
 
 *My toes don’t have to squeeze the same earth*
 
