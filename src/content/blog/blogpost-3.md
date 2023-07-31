@@ -1,5 +1,5 @@
 ---
-title: 'GDT''s Pinocchio: The Invisible Strings of Grief.'
+title: 'GDT''s Pinocchio: The Invisible Strings of Grief'
 description: Exploring grief through Guillermo Del Toro's Pinocchio (2022)
 pubDate: 'August 2, 2023'
 subtitle: Guillermo Del Toro's Pinocchio (2022)
