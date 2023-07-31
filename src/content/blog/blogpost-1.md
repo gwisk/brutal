@@ -1,7 +1,7 @@
 ---
 title: No Hard Feelings
 pubDate: 'August 2, 2023'
-subtitle: Subtitle
+subtitle: A powerful exploration of change and home through No Hard Feelings (2023)
 author: Maggie Burke
 bio: Maggie Burke is a poet and writer from Cape Cod.
 tags:
