@@ -67,6 +67,3 @@ Still, I know I would not have become the person I am today had I stayed. Someon
 However, running to the new will always result in running from the old. But that is the risk we have to decide is worth it (and I’ll always bet that it is). Of course, those of us brave enough to leave do lose some comforts: stability, consistency, your first community. So maybe one day I’ll let the dust settle and I’ll have those things again. And it is okay to long for them now and then, although I’ll always ache for freedom and independence just a little bit more.
 
 Although I typically hate movies creating a sequel where there is no need for one, I would love to see a No Hard Feelings 2, where Maddie returns to Montauk after her adventures in surfing along the California coast, and would easily eat up another 90 minutes about her reconciling her personal growth with the stagnant nature of her stomping grounds. But if the story ends with the first, then what I can take away is that Maddie finally left the place she loved because it was holding her back, and she left it with people who care as much as she does about keeping the local spirit of Montauk alive. For me, Cape Cod will always be home, and I love it more because I got to leave it, because I knew I was not meant to stay.
-
-```javascript
-```
