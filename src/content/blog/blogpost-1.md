@@ -8,8 +8,7 @@ tags:
   - No Hard Feelings
   - Home
   - Change
-imgUrl: >-
-  https://www.imdb.com/title/tt15671028/mediaviewer/rm733359361?ref_=ttmi_mi_all_sf_12
+imgUrl: 'https://imgur.com/AbJvgSH'
 description: A powerful exploration of change and home through No Hard Feelings (2023)
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
@@ -51,7 +50,6 @@ who never meant to make me feel trapped and
 
 I wish more than anything that I could’ve loved them back
 
-
 When walking into a romcom like No Hard Feelings, the last thing you expect is to be confronted with a character whose depth and complexity is not only fun to watch but is driven by an external conflict closer to home than anticipated. Unfortunately, no one has ever offered me a car to sleep with their sweet-yet-shy son (yet), but Jennifer Lawrence’s character, Maddie, felt like a glimpse into my future had I fallen victim to the comfort of never leaving home.
 
 Maddie is a lifelong local to the beaches of Montauk, and I spent my first eighteen18 years as a yearrounder on Cape Cod. Despite the obvious differences between New York and Massachusetts, all seasonal shorelines go through the same thing. Maddie hates the rich assholes who gentrify the land and hike up property taxes just as much as I hate the second homes that sit vacant ten months out of the year while locals struggle to find housing.
@@ -71,5 +69,3 @@ Still, I know I would not have become the person I am today had I stayed. Someon
 However, running to the new will always result in running from the old. But that is the risk we have to decide is worth it (and I’ll always bet that it is). Of course, those of us brave enough to leave do lose some comforts: stability, consistency, your first community. So maybe one day I’ll let the dust settle and I’ll have those things again. And it is okay to long for them now and then, although I’ll always ache for freedom and independence just a little bit more.
 
 Although I typically hate movies creating a sequel where there is no need for one, I would love to see a No Hard Feelings 2, where Maddie returns to Montauk after her adventures in surfing along the California coast, and would easily eat up another 90 minutes about her reconciling her personal growth with the stagnant nature of her stomping grounds. But if the story ends with the first, then what I can take away is that Maddie finally left the place she loved because it was holding her back, and she left it with people who care as much as she does about keeping the local spirit of Montauk alive. For me, Cape Cod will always be home, and I love it more because I got to leave it, because I knew I was not meant to stay.
-
-
