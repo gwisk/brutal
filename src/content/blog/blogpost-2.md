@@ -13,7 +13,9 @@ tags:
   - Love
   - Confidence
 imgUrl: 'https://i.imgur.com/OOzlmKc.jpg'
-description: Using the power of Linklater's Before Sunrise (1995) to find confidence
+description: >-
+  My "Before" Moment: Finding confidence through Linklater's Before Sunrise
+  (1995) 
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
