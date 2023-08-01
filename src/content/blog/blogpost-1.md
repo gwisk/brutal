@@ -1,7 +1,7 @@
 ---
-title: Tourist Town
+title: No Hard Feelings
 pubDate: 'August 2, 2023'
-subtitle: A powerful exploration of change and home through No Hard Feelings (2023)
+subtitle: Tourist Town
 author: Maggie Burke
 bio: Maggie Burke is a poet and writer from Cape Cod.
 tags:
@@ -20,7 +20,7 @@ header: banner1.jpg
 
 *keep moving if only to feel motion*
 
-*sickness comes when the wheels quit turning* 
+*sickness comes when the wheels quit turning*
 
 <br>
 
@@ -32,7 +32,7 @@ header: banner1.jpg
 
 *from every goodbye and without knowing I grew*
 
-*to become the thing I always hated most* 
+*to become the thing I always hated most*
 
 <br>
 
