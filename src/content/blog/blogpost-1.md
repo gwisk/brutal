@@ -50,6 +50,8 @@ When walking into a romcom like No Hard Feelings, the last thing you expect is t
 
 Maddie is a lifelong local to the beaches of Montauk, and I spent my first eighteen18 years as a yearrounder on Cape Cod. Despite the obvious differences between New York and Massachusetts, all seasonal shorelines go through the same thing. Maddie hates the rich assholes who gentrify the land and hike up property taxes just as much as I hate the second homes that sit vacant ten months out of the year while locals struggle to find housing.
 
+![](</Screenshot 2023-08-01 at 10.19.41 AM.png> "Photo of Cape Cod taken by the author")
+
 Through her friendship with her 19-year-old attempted conquest, Maddie’s resolution involves doing something she resisted the entire movie: selling the house her mother left her. Although she succeeded in paying off the property taxes she owed, by no longer feeling desperate to save the land from the greedy developers hungry to tear down the quaint home she is able to realize that staying is not where her path leads. Instead, she realizes her mother only wanted her to be happy, not necessarily chained to Montauk. So, she sells the home to her married and expecting friends who were at risk of getting priced out of Montauk, and then finally leaves once and for all to experience the rest of the world.
 
 What I love so much about this ending is that it shows that loving something and wanting to protect it, such as a quaint house on a valuable piece of land, doesn’t always require sacrificing your own growth. 
