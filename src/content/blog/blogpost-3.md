@@ -1,10 +1,15 @@
 ---
-title: 'GDT''s Pinocchio: The Invisible Strings of Grief'
+title: Guillermo del Toro's Pinocchio
 description: Exploring grief through Guillermo Del Toro's Pinocchio (2022)
 pubDate: 'August 2, 2023'
-subtitle: Exploring grief through Guillermo Del Toro's Pinocchio (2022)
+subtitle: The Invisible Strings of Grief
 author: Huda Ismail
-bio: Huda Ismail is a writer and critic based in Egypt. She tweets from @hudawrites_.
+bio: >-
+  Huda Ismail (she/her) is an Egyptian dentist and writer. After publishing an
+  academic paper last year, she currently writes poetry, flash fiction, and all
+  things inspired by film, TV, and literature on her newsletter. Her work has
+  been featured in Screen Speck and various literary magazines. She tweets from
+  @hudawrites_.
 tags:
   - Pinocchio
   - Grief
