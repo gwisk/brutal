@@ -21,12 +21,7 @@ header: banner1.jpg
 
 *keep moving if only to feel motion*
 
-<<<<<<< Updated upstream
-*sickness comes when the wheels quit turning*
-
-=======
-*sickness comes when the wheels quit turning*   
->>>>>>> Stashed changes
+*sickness comes when the wheels quit turning*     
 <br>
 *My toes don’t have to squeeze the same earth*
 
@@ -36,12 +31,7 @@ header: banner1.jpg
 
 *from every goodbye and without knowing I grew*
 
-<<<<<<< Updated upstream
-*to become the thing I always hated most*
-
-=======
-*to become the thing I always hated most*         
->>>>>>> Stashed changes
+*to become the thing I always hated most*      
 <br>
 *And when people run from me*
 
