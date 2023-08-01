@@ -9,10 +9,11 @@ tags:
   - Home
   - Change
 imgUrl: 'https://i.imgur.com/AbJvgSH.png'
-description: A powerful exploration of change and home through No Hard Feelings (2023)
+description: 'Tourist Town: Understanding change and home through No Hard Feelings (2023)'
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
+
 <div align="center">
 
 *I run from the town that raised me*
@@ -21,8 +22,7 @@ header: banner1.jpg
 
 *keep moving if only to feel motion*
 
-*sickness comes when the wheels quit turning*     
-<br>
+*sickness comes when the wheels quit turning*\ <br>
 *My toes don’t have to squeeze the same earth*
 
 *where I ripped out my roots because I swallowed*
@@ -31,8 +31,7 @@ header: banner1.jpg
 
 *from every goodbye and without knowing I grew*
 
-*to become the thing I always hated most*      
-<br>
+*to become the thing I always hated most*\ <br>
 *And when people run from me*
 
 *out of fear of becoming stuck*
