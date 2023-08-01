@@ -6,8 +6,8 @@ interface Props {
 const { content } = Astro.props;
 ---
 
-<article class='prose-slate w-sm md:w-prose md:prose sm:text-md lg:text-lg xl:text-xl leading-none inter'>
-  <img src={content.imgUrl} class='rounded object-cover' alt="Banner">
+<article class='prose-slate w-sm md:w-prose md:prose sm:text-md lg:text-lg leading-none inter'>
+  <img src={content.imgUrl} class='rounded object-cover mx-auto h-md' alt="Banner">
   <h1 class="dm-serif">{content.title}</h1>
   <h2 class="dm-serif" style="margin-top:-5px">{content.subtitle}</h2>
   <h3 class='dm-serif'>
