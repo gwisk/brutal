@@ -1,7 +1,7 @@
 ---
 title: GDT's Pinocchio
 description: >-
-  The Invisible Hand of Grief: Exploring grief through Guillermo Del Toro's
+  The Invisible Hand of Grief: Self-reflection through Guillermo Del Toro's
   Pinocchio (2022)
 pubDate: 'August 2, 2023'
 subtitle: The Invisible Strings of Grief
