@@ -52,4 +52,4 @@ Although I typically hate movies creating a sequel where there is no need for on
 
 ![](</Screenshot 2023-08-01 at 10.19.41 AM.png>)**
 
-*All photos in this piece were taken by the author in Cape Cod*
+*All photos in this piece were taken by the author.*
