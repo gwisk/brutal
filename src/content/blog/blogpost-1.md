@@ -3,7 +3,11 @@ title: No Hard Feelings
 pubDate: 'August 2, 2023'
 subtitle: Tourist Town
 author: Maggie Burke
-bio: Maggie Burke is a poet and writer from Cape Cod.
+bio: >-
+  Maggie Burke is a poet living in Boston, MA. She is currently earning her MFA
+  from Emerson College, where she also teaches. She loves long romantic walks to
+  Chipotle and is allergic to having a bad time. Follow her on Instagram
+  @muuuurrrk (4 u’s 3 r’s).
 tags:
   - No Hard Feelings
   - Home
