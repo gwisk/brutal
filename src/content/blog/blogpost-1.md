@@ -13,6 +13,7 @@ description: A powerful exploration of change and home through No Hard Feelings 
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
+<div align="center">
 
 *I run from the town that raised me*
 
@@ -20,10 +21,13 @@ header: banner1.jpg
 
 *keep moving if only to feel motion*
 
+<<<<<<< Updated upstream
 *sickness comes when the wheels quit turning*
 
+=======
+*sickness comes when the wheels quit turning*   
+>>>>>>> Stashed changes
 <br>
-
 *My toes don’t have to squeeze the same earth*
 
 *where I ripped out my roots because I swallowed*
@@ -32,10 +36,13 @@ header: banner1.jpg
 
 *from every goodbye and without knowing I grew*
 
+<<<<<<< Updated upstream
 *to become the thing I always hated most*
 
+=======
+*to become the thing I always hated most*         
+>>>>>>> Stashed changes
 <br>
-
 *And when people run from me*
 
 *out of fear of becoming stuck*
@@ -47,6 +54,8 @@ header: banner1.jpg
 *who never meant to make me feel trapped and*
 
 *I wish more than anything that I could’ve loved them back*
+
+</div>
 
 When walking into a romcom like No Hard Feelings, the last thing you expect is to be confronted with a character whose depth and complexity is not only fun to watch but is driven by an external conflict closer to home than anticipated. Unfortunately, no one has ever offered me a car to sleep with their sweet-yet-shy son (yet), but Jennifer Lawrence’s character, Maddie, felt like a glimpse into my future had I fallen victim to the comfort of never leaving home.
 
