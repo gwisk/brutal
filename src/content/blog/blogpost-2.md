@@ -1,7 +1,7 @@
 ---
-title: My "Before" Moment
+title: Before Sunrise
 pubDate: 'August 2, 2023'
-subtitle: Before Sunrise
+subtitle: My "Before" Moment
 author: Caleb Hamilton
 bio: >-
   Caleb Cahill is a photographer and proud cat dad from Washington, DC. When
