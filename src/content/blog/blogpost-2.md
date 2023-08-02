@@ -26,9 +26,11 @@ While I’d love to spend some extended time in England, I wasn’t prepared to 
 
 I’d get another chance to travel and potentially meet my Céline when I got an invite to the wedding of a friend who I used to work with on Capitol Hill in DC. Tim once again challenged (read: threatened) me to be someone else or else this time he would kill me with his bare hands. I had assurances that there’d be plenty of single women at the wedding, so with that in mind I once again set out on a grand international adventure with a mission. I was excited and felt that this time I could actually do it. Perhaps it was the thought that I was going to one of the most romantic countries in the world: Italy.
 
-<div align="center">
-    <img src="/image1.jpeg">
-</div>
+<center>
+
+![](/image1.jpeg)
+
+</center>
 
 At the happy hour between the wedding and the reception, I noticed a stunning young woman with red hair across the room. I’d seen her the night before at a dinner party, but I didn’t get a chance to speak to her. I was three drinks in at this point and I approached her with my fourth — an aperol spritz — in hand. I introduced myself and as soon as she told me her name, she stuck her phone camera in my face and said, “Say your name and this is my first drink of the night.” It was not my first drink of the night though, I told her. This smirk crept across her lips and she looked at me, the setting sun catching the brown of her eyes. Her name was Valeria.
 
@@ -45,9 +47,11 @@ Juliet and I sat at that restaurant for an hour just talking. She was from Polan
 Not long into our walk, Juliet asked me what I was looking for because she had a boyfriend. I laughed - how could this keep happening to me when I’m finally putting myself out there for real? I told her the truth, that I was hoping to meet another single person and just see where things went. She told me she was happy I asked to sit with her because she’d been a bit lonely since her friend was busy studying. We could continue hanging out, but she just made me promise not to kill her. “As long as you don’t kill me, too,” I said.
 
 
-<div align="center">
-    <img src="/image0.jpeg">
-</div>
+<center>
+
+![](/image0.jpeg)
+
+</center>
 
 
 Finally arriving at the Colosseum, we whipped out our phones and snapped away. I thought about the scene in Before Sunset where, after stealing glances at each other in a listening booth, Céline and Jesse explored the city of Vienna, visiting historical sites. Juliet and I found a spot to sit, facing one of the Wonders of the World. I asked her if she had any upcoming trips. She told me she’d be going to Germany to see Harry Styles and her boyfriend; they’re long distance. “You’re dating Harry Styles?” I asked. I’d missed him on his last US tour, but we talked about his last album, Harry’s House, which we both like. Juliet asked me if I wanted to have another drink before she needed to go, and we went to a cafe across the street. 
@@ -56,10 +60,11 @@ She was impressed with my Italian. “How do you know so much?” She asked. I�
 
 There was no kiss at a famous landmark. No dramatic promise to meet again at the same location a few months later. I’m not at all upset that these two experiences did not end exactly as it did for Jesse and Céline in Before Sunrise. I’m grateful to Valeria and Juliet for sharing their time with me. Especially Juliet who didn’t have to let some strange man sit with her. Spending time with them both gave me an incredible boost to my confidence.  It was as if that voice in my head that for years was telling me that there was something seriously wrong with me was suddenly gone. There was nothing wrong with me at all. I wasn’t broken. I wasn’t ugly. I could be charming and funny and interesting. I was hot. I no longer feel like I have to go halfway around the world or be a different person. When I told Tim about all this, he was overjoyed and even called British Airways to try to get me off their no-fly list. It didn’t work out.
 
-<div align="center">
-    <img src="/image4.jpeg">
-</div>
+<center>
 
+![](/image4.jpeg)
+
+</center>
 
 My trip lasted a week and in that time I’d taken six planes, two five-hour train rides across Italy, and two trains back and forth from Rome to Naples. In any of those instances, I could have had an encounter with a beautiful woman who would change the course of my trip — and perhaps my life — but she wasn’t there. Not in the skies above Germany on the way to Rome. Not in the third car of the train from the Adriatic Coast, winding through the Italian countryside and mountains. No, embracing your inner Jesse won’t work out all the time. In fact, most of the time you’ll probably just make a nice friend to have a long conversation with as you look at ancient ruins. I’m hopeful that one day I will find the Céline for my Jesse. Whether it be at a bar at home in DC, on a boat in the Mediterranean, or maybe on a train going to Vienna. She’s out there and all I have to do is stay out of my shell, be confident, take a chance and ask “Do you have any idea what they were arguing about?” 
 
