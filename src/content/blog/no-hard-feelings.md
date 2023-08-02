@@ -18,7 +18,6 @@ layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
 
-
 <div align="center">
 
 *I run from the town that raised me*<br>*out of fear of becoming stuck*<br>*keep moving if only to feel motion*<br>*sickness comes when the wheels quit turning* <br>*My toes don’t have to squeeze the same earth*<br>*where I ripped out my roots because I swallowed*<br>*these seeds and watered them with tears*<br>*from every goodbye and without knowing I grew*<br>*to become the thing I always hated most* <br>*And when people run from me*<br>*out of fear of becoming stuck*<br>*I long for any sense of home, whispering*<br>*my apologies to the ocean shores and beach resorts*<br>*who never meant to make me feel trapped and*<br>*I wish more than anything that I could’ve loved them back*
@@ -51,6 +50,6 @@ However, running to the new will always result in running from the old. But that
 
 Although I typically hate movies creating a sequel where there is no need for one, I would love to see a No Hard Feelings 2, where Maddie returns to Montauk after her adventures in surfing along the California coast, and would easily eat up another 90 minutes about her reconciling her personal growth with the stagnant nature of her stomping grounds. But if the story ends with the first, then what I can take away is that Maddie finally left the place she loved because it was holding her back, and she left it with people who care as much as she does about keeping the local spirit of Montauk alive. For me, Cape Cod will always be home, and I love it more because I got to leave it, because I knew I was not meant to stay.
 
-![](</Screenshot 2023-08-01 at 10.19.41 AM.png>)**
+![](</Screenshot 2023-08-01 at 10.19.41 AM.png>)
 
 *All photos in this piece were taken by the author.*
