@@ -20,6 +20,7 @@ layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
 
+
 When I saw Richard Linklater’s Before Sunrise for the first time, I felt a deep desire to travel wash over me. This desire was not to merely go on vacation, but to be someone else who is confident enough to strike up a conversation with a beautiful person and ask them to spend the day together. Since that first viewing, I’ve been on a few trips where I could have easily had that seemingly elusive boy-meets-girl moment. But I got in my own way. Earlier this year, I went to Leeds to spend New Year’s Eve with my book club. One of my best friends, Tim, gave me a directive: leave my usual self at home, be someone else entirely and talk to people I thought were hot… or else. When I asked what “or else” meant, he gleefully told me that I was to not come back home without completing my task. If I tried to, he’d call in a bomb threat to the airline using my name. 
 
 While I’d love to spend some extended time in England, I wasn’t prepared to do so this time. I went to Leeds and really tried my best: I managed to talk to one person. Tim was not happy and I’m no longer allowed to fly on British Airways. I have this tendency to be shy. But more so than shy, I’m honestly afraid. Afraid of the feelings of inadequacy and the pain of rejection. So I don’t try that hard to put myself out there. I seriously needed to get over this or else I’d never meet anyone.

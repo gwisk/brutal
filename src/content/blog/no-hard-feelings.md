@@ -18,6 +18,7 @@ layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
 
+
 <div align="center">
 
 *I run from the town that raised me*<br>*out of fear of becoming stuck*<br>*keep moving if only to feel motion*<br>*sickness comes when the wheels quit turning* <br>*My toes don’t have to squeeze the same earth*<br>*where I ripped out my roots because I swallowed*<br>*these seeds and watered them with tears*<br>*from every goodbye and without knowing I grew*<br>*to become the thing I always hated most* <br>*And when people run from me*<br>*out of fear of becoming stuck*<br>*I long for any sense of home, whispering*<br>*my apologies to the ocean shores and beach resorts*<br>*who never meant to make me feel trapped and*<br>*I wish more than anything that I could’ve loved them back*

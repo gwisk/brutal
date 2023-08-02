@@ -21,6 +21,7 @@ layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
 
+
 Despite the multitudes we encapsulate within us, as human beings we are tethered to each other in many ways, our unique stories are but a part of the fabric that holds our shared universal truths and experiences. Some stories are easily told and digested, while others we lock in hidden rooms in our psyche.
 
 One story that usually comes out as a lump in my throat, or a lingering tear on my cheek, is that of my grief. I was 19 years old when I lost my mother, and while this experience is not uncommon, it’s a difficult one to tell. I try to tell it now in poetic mosaics and seek out portrayals of grief in different mediums, but that wasn’t always the case. Five years ago, I couldn’t fathom this unseen, relentless creature named Grief, and I refused to accept it as anything but a foe. All the anger and agony I carried in my heart flung me into the pits of seclusion.
