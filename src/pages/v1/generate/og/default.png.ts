@@ -10,8 +10,8 @@ const fontFile = await fetch(
 
 const fontData: ArrayBuffer = await fontFile.arrayBuffer();
 
-const height = 630;
-const width = 1200;
+const height = 700;
+const width = 1400;
 
 export const get: APIRoute = async () => {
 	const bgColor = Config.colors[Math.floor(Math.random() * Config.colors.length)];
