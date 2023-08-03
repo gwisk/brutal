@@ -12,14 +12,13 @@ tags:
   - Before Sunrise
   - Love
   - Confidence
-imgUrl: 'https://i.imgur.com/OOzlmKc.jpg'
+imgUrl: /before_sunrise_banner.jpeg
 description: >-
   My "Before" Moment: Finding confidence through Linklater's Before Sunrise
   (1995) 
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
-
 
 When I saw Richard Linklater’s Before Sunrise for the first time, I felt a deep desire to travel wash over me. This desire was not to merely go on vacation, but to be someone else who is confident enough to strike up a conversation with a beautiful person and ask them to spend the day together. Since that first viewing, I’ve been on a few trips where I could have easily had that seemingly elusive boy-meets-girl moment. But I got in my own way. Earlier this year, I went to Leeds to spend New Year’s Eve with my book club. One of my best friends, Tim, gave me a directive: leave my usual self at home, be someone else entirely and talk to people I thought were hot… or else. When I asked what “or else” meant, he gleefully told me that I was to not come back home without completing my task. If I tried to, he’d call in a bomb threat to the airline using my name. 
 
@@ -47,13 +46,11 @@ Juliet and I sat at that restaurant for an hour just talking. She was from Polan
 
 Not long into our walk, Juliet asked me what I was looking for because she had a boyfriend. I laughed - how could this keep happening to me when I’m finally putting myself out there for real? I told her the truth, that I was hoping to meet another single person and just see where things went. She told me she was happy I asked to sit with her because she’d been a bit lonely since her friend was busy studying. We could continue hanging out, but she just made me promise not to kill her. “As long as you don’t kill me, too,” I said.
 
-
 <center>
 
 ![](/image0.jpeg)
 
 </center>
-
 
 Finally arriving at the Colosseum, we whipped out our phones and snapped away. I thought about the scene in Before Sunset where, after stealing glances at each other in a listening booth, Céline and Jesse explored the city of Vienna, visiting historical sites. Juliet and I found a spot to sit, facing one of the Wonders of the World. I asked her if she had any upcoming trips. She told me she’d be going to Germany to see Harry Styles and her boyfriend; they’re long distance. “You’re dating Harry Styles?” I asked. I’d missed him on his last US tour, but we talked about his last album, Harry’s House, which we both like. Juliet asked me if I wanted to have another drink before she needed to go, and we went to a cafe across the street. 
 
