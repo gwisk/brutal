@@ -12,7 +12,7 @@ tags:
   - No Hard Feelings
   - Home
   - Change
-imgUrl: /no_hard_feelings_banner.png
+imgUrl: public/no_hard_feelings_banner.png
 description: 'Tourist Town: Understanding change and home through No Hard Feelings (2023)'
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg

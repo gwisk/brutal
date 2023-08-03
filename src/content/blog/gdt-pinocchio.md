@@ -16,7 +16,7 @@ tags:
   - Pinocchio
   - Grief
   - Loss
-imgUrl: /gdt_banner.jpeg
+imgUrl: public/gdt_banner.jpeg
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
