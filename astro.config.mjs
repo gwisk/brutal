@@ -6,7 +6,6 @@ import sitemap from '@astrojs/sitemap';
 import { astroImageTools } from "astro-imagetools";
 import vue from "@astrojs/vue";
 import robotsTxt from "astro-robots-txt";
-import vercel from "@astrojs/vercel/static";
 
 // https://astro.build/config
 export default defineConfig({
@@ -23,9 +22,5 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"]
     }
-  },
-  output: "static",
-  adapter: vercel({
-    analytics: true,
-  }),
+  }
 });
