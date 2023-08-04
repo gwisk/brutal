@@ -12,11 +12,7 @@ tags:
   - Before Sunrise
   - Love
   - Confidence
-<<<<<<< HEAD
-imgUrl: 'https://i.imgur.com/OOzlmKc.jpg'
-=======
 imgUrl: /before_sunrise_banner.jpeg
->>>>>>> parent of d50a72c (images fixed public)
 description: >-
   My "Before" Moment: Finding confidence through Linklater's Before Sunrise
   (1995) 
