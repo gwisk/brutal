@@ -12,7 +12,11 @@ tags:
   - Before Sunrise
   - Love
   - Confidence
+<<<<<<< HEAD
 imgUrl: 'https://i.imgur.com/OOzlmKc.jpg'
+=======
+imgUrl: /before_sunrise_banner.jpeg
+>>>>>>> parent of d50a72c (images fixed public)
 description: >-
   My "Before" Moment: Finding confidence through Linklater's Before Sunrise
   (1995) 
@@ -69,4 +73,4 @@ There was no kiss at a famous landmark. No dramatic promise to meet again at the
 
 My trip lasted a week and in that time I’d taken six planes, two five-hour train rides across Italy, and two trains back and forth from Rome to Naples. In any of those instances, I could have had an encounter with a beautiful woman who would change the course of my trip — and perhaps my life — but she wasn’t there. Not in the skies above Germany on the way to Rome. Not in the third car of the train from the Adriatic Coast, winding through the Italian countryside and mountains. No, embracing your inner Jesse won’t work out all the time. In fact, most of the time you’ll probably just make a nice friend to have a long conversation with as you look at ancient ruins. I’m hopeful that one day I will find the Céline for my Jesse. Whether it be at a bar at home in DC, on a boat in the Mediterranean, or maybe on a train going to Vienna. She’s out there and all I have to do is stay out of my shell, be confident, take a chance and ask “Do you have any idea what they were arguing about?” 
 
-*All photos in this piece were taken by the author.*
+*All pictures in this piece were taken by the author.*

@@ -16,7 +16,11 @@ tags:
   - Pinocchio
   - Grief
   - Loss
+<<<<<<< HEAD
 imgUrl: 'https://i.imgur.com/rlehfP4.jpeg'
+=======
+imgUrl: /gdt_banner.jpeg
+>>>>>>> parent of d50a72c (images fixed public)
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---

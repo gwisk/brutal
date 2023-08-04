@@ -5,8 +5,8 @@ import compress from "astro-compress";
 import sitemap from '@astrojs/sitemap';
 import { astroImageTools } from "astro-imagetools";
 import vue from "@astrojs/vue";
-
 import robotsTxt from "astro-robots-txt";
+import vercel from "@astrojs/vercel/static";
 
 // https://astro.build/config
 export default defineConfig({
@@ -20,8 +20,12 @@ export default defineConfig({
     remarkPlugins: [remarkReadingTime]
   },
   vite: {
-		optimizeDeps: {
-			exclude: ["@resvg/resvg-js"],
-		},
-	},
+    optimizeDeps: {
+      exclude: ["@resvg/resvg-js"]
+    }
+  },
+  output: "static",
+  adapter: vercel({
+    analytics: true,
+  }),
 });
