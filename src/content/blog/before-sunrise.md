@@ -12,14 +12,14 @@ tags:
   - Before Sunrise
   - Love
   - Confidence
-imgUrl: 'https://i.imgur.com/OOzlmKc.jpg'
+imgUrl: >-
+  https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/before_sunrise_banner.jpeg
 description: >-
   My "Before" Moment: Finding confidence through Linklater's Before Sunrise
   (1995) 
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
 ---
-
 
 When I saw Richard Linklater’s Before Sunrise for the first time, I felt a deep desire to travel wash over me. This desire was not to merely go on vacation, but to be someone else who is confident enough to strike up a conversation with a beautiful person and ask them to spend the day together. Since that first viewing, I’ve been on a few trips where I could have easily had that seemingly elusive boy-meets-girl moment. But I got in my own way. Earlier this year, I went to Leeds to spend New Year’s Eve with my book club. One of my best friends, Tim, gave me a directive: leave my usual self at home, be someone else entirely and talk to people I thought were hot… or else. When I asked what “or else” meant, he gleefully told me that I was to not come back home without completing my task. If I tried to, he’d call in a bomb threat to the airline using my name. 
 
@@ -47,13 +47,11 @@ Juliet and I sat at that restaurant for an hour just talking. She was from Polan
 
 Not long into our walk, Juliet asked me what I was looking for because she had a boyfriend. I laughed - how could this keep happening to me when I’m finally putting myself out there for real? I told her the truth, that I was hoping to meet another single person and just see where things went. She told me she was happy I asked to sit with her because she’d been a bit lonely since her friend was busy studying. We could continue hanging out, but she just made me promise not to kill her. “As long as you don’t kill me, too,” I said.
 
-
 <center>
 
 ![](/image0.jpeg)
 
 </center>
-
 
 Finally arriving at the Colosseum, we whipped out our phones and snapped away. I thought about the scene in Before Sunset where, after stealing glances at each other in a listening booth, Céline and Jesse explored the city of Vienna, visiting historical sites. Juliet and I found a spot to sit, facing one of the Wonders of the World. I asked her if she had any upcoming trips. She told me she’d be going to Germany to see Harry Styles and her boyfriend; they’re long distance. “You’re dating Harry Styles?” I asked. I’d missed him on his last US tour, but we talked about his last album, Harry’s House, which we both like. Juliet asked me if I wanted to have another drink before she needed to go, and we went to a cafe across the street. 
 
@@ -69,4 +67,4 @@ There was no kiss at a famous landmark. No dramatic promise to meet again at the
 
 My trip lasted a week and in that time I’d taken six planes, two five-hour train rides across Italy, and two trains back and forth from Rome to Naples. In any of those instances, I could have had an encounter with a beautiful woman who would change the course of my trip — and perhaps my life — but she wasn’t there. Not in the skies above Germany on the way to Rome. Not in the third car of the train from the Adriatic Coast, winding through the Italian countryside and mountains. No, embracing your inner Jesse won’t work out all the time. In fact, most of the time you’ll probably just make a nice friend to have a long conversation with as you look at ancient ruins. I’m hopeful that one day I will find the Céline for my Jesse. Whether it be at a bar at home in DC, on a boat in the Mediterranean, or maybe on a train going to Vienna. She’s out there and all I have to do is stay out of my shell, be confident, take a chance and ask “Do you have any idea what they were arguing about?” 
 
-*All photos in this piece were taken by the author.*
+*All pictures in this piece were taken by the author.*
