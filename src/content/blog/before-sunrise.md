@@ -7,7 +7,7 @@ bio: >-
   Caleb Hamilton is a photographer and proud cat dad from Washington, DC. When
   he’s not taking photos, you can find him at the movie theater, the ramen shop
   or the airport boarding yet another flight. Follow him on Instagram
-  @darthgroudon.
+  @darthgroudon. 
 tags:
   - Before Sunrise
   - Love
