@@ -56,4 +56,4 @@ Even though *Kedi* may have immortalized Gamsiz in our hearts forever, Gamsiz is
 
 I'm reminded every day of how lucky I am to have time left with Tiger. He's 14 now, he's getting a lot older. I know it's coming and his loss will one day break me. He won't be around forever, and while I can't predict the future, I'm determined to treasure every moment we have together, especially when he's being a handful. I'm incredibly thankful for the time we've had, and the time that we have left, beyond grateful for the chance to keep giving him a fraction of the love he deserves.
 
-![](</image0 (5).jpeg>)
+![](</image0 (6).jpeg>)
