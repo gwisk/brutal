@@ -17,7 +17,7 @@ Back in elementary school, whenever I had a day off, I'd bug my mom to take me t
 
 Then, about twelve years ago, something changed. I spotted a stray cat wandering around in our backyard. On a whim, I put out some food for him, hoping he would return. And it did. Over time, the cat kept coming back, and once my mom got used to his presence, she also started feeding him. Eventually, she let him sleep in our garage. And, not long after, my dad began to let him sleep in the house. Somehow, without really planning it, that stray cat adopted us.
 
-![](</image1 (2).jpeg>)
+![](</image1 (2).jpeg>)![](</image1 (3).jpeg>)
 
 I’ve had Tiger (I named him that because I found him when I was 10 when I saw him and he looks like a tiger and I was an extremely perceptive ten year old) for about 12 years now. He's an outdoor cat, so I let him out in the morning and make sure he's back before sunset. His hobbies include going for walks outside—walks that I'm now obligated to join, even when I'd rather stay indoors. He’ll start by pawing at the window and if I ignore him, he moves to more drastic measures. I have no choice in the matter; he's figured out that I don't appreciate him scratching up the couch. So, when I resist his walks, he'll position himself next to the couch, paw menacingly resting on the leather, as if negotiating with me. It's become a sort of unspoken agreement—I must comply to save the couch.
 
@@ -35,11 +35,8 @@ Once I reached Istanbul, it hit me: there are so many cats in Istanbul and there
 
 Every cat has an expiry date. Even though Kedi may have immortalized Gamsiz in our hearts forever, Gamsiz is only a cat, just like the thousands of others I met that day in Istanbul. It’s heartbreaking that I personally won't be able to pet every cat in the world. In Istanbul, a city where cats reign supreme, the generations of cats that grace Istanbul's streets are symbolic of life's cyclical nature. Our responsibility lies in offering love and care to each cat we encounter, embracing the lessons they teach us about companionship and the fleeting beauty of existence. Every cat, like every moment in life, is a fleeting blessing. Meeting these cats and hearing their stories was a privilege I'll forever cherish.
 
-
-![](</image0 (3).jpeg>)![](</image3 (2).jpeg>)
+![](</image3 (2).jpeg>)![](</image0 (3).jpeg>)
 
 I'm reminded every day of how lucky I am to have spent time with Tiger. He won't be around forever, and while I can't predict the future, I'm determined to treasure every moment we have together, even when he's being a handful. I'm incredibly thankful for the time we've had, for the chance to give him a fraction of the love he deserves.
 
 ![](</image11 (1).jpeg>)
-
-
