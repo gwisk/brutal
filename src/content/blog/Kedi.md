@@ -23,7 +23,7 @@ Then, about twelve years ago, something changed. I spotted a stray cat wandering
 
 ![](</image1 (3).jpeg>)
 
-I’ve had Tiger (I named him that because I found him when I was 10 when I saw him and he looks like a tiger and I was an extremely perceptive ten year old) for about 12 years now. He's an outdoor cat, so I let him out in the morning and make sure he's back before sunset. 
+I’ve had Tiger (I named him that because I found him when I was 10. He looks like a tiger and I was an extremely perceptive ten year old) for about 12 years now. He's an outdoor cat, so I let him out in the morning and make sure he's back before sunset.
 
 ![](</image1 (4).jpeg>)
 
@@ -41,7 +41,9 @@ I recognized shades of Tiger’s terroristic tendencies in Ceyda Torun’s, Kedi
 
 During the summer of 2023, I found myself in Istanbul on a 24-hour layover. As I was planning the list of sights I wanted to see, I found a neighborhood that seemed familiar and I recognized it as a spot featured in Kedi. Suddenly, my layover was no longer an extended vacation;  it became a quest. I was on a mission: I was going to meet every single one of the Kedi cats. My Kardashians. Of course this was before I actually ever stepped foot in Istanbul, and I hadn't realized that finding seven cats in a sea of millions would be impossible. Still I was committed. I was a man on a mission. I planned my course and set a path around some tourist sites and locations highlighted on the Kedi site. ![](</image6 (3).jpeg>)
 
-![](</image8 (1).jpeg>)![](</image0 (4).jpeg>)
+![](</image8 (1).jpeg>)
+
+![](</image0 (4).jpeg>)
 
 Once I reached Istanbul, it hit me: there are so many cats in Istanbul and there would be no way I’d identify a specific cat in this sea of millions. Still, I was in heaven. This was their city, cats ruled the streets and I was simply a guest in their home, lucky enough to be blessed by their hospitality. Each cat I met was friendlier than the last, and I was engulfed in a wave of pure joy. While I couldn't cross off all the cats from my list, I held onto the hope of meeting Gamsiz, the bakery cat. With the help of Google Translate and some limited Turkish, I found my way to an old lady who informed me that Gamsiz had passed away, a harsh reminder that the documentary was filmed  over seven years ago. The woman and I overcame our language barriers and bonded over photos of Gamsiz; it was clear he was extremely special and would forever be immortalized in the neighborhood.
 ![](</image9 (1).jpeg>)
