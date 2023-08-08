@@ -23,7 +23,11 @@ Then, about twelve years ago, something changed. I spotted a stray cat wandering
 
 ![](</image1 (3).jpeg>)
 
-I’ve had Tiger (I named him that because I found him when I was 10 when I saw him and he looks like a tiger and I was an extremely perceptive ten year old) for about 12 years now. He's an outdoor cat, so I let him out in the morning and make sure he's back before sunset. His hobbies include going for walks outside—walks that I'm now obligated to join, even when I'd rather stay indoors. He’ll start by pawing at the window and if I ignore him, he moves to more drastic measures. I have no choice in the matter; he's figured out that I don't appreciate him scratching up the couch. So, when I resist his walks, he'll position himself next to the couch, paw menacingly resting on the leather, as if negotiating with me. It's become a sort of unspoken agreement—I must comply to save the couch.
+I’ve had Tiger (I named him that because I found him when I was 10 when I saw him and he looks like a tiger and I was an extremely perceptive ten year old) for about 12 years now. He's an outdoor cat, so I let him out in the morning and make sure he's back before sunset. 
+
+![](</image1 (4).jpeg>)
+
+His hobbies include going for walks outside—walks that I'm now obligated to join, even when I'd rather stay indoors. He’ll start by pawing at the window and staring menacingly (see above) and if I ignore him, he moves to more drastic measures. I have no choice in the matter; he's figured out that I don't appreciate him scratching up the couch. So, when I resist his walks, he'll position himself next to the couch, paw menacingly resting on the leather, as if negotiating with me. It's become a sort of unspoken agreement—I must comply to save the couch.
 
 ![](/image7.jpeg)
 
@@ -52,4 +56,4 @@ Every cat has an expiry date. Even though Kedi may have immortalized Gamsiz in o
 
 I'm reminded every day of how lucky I am to have spent time with Tiger. He won't be around forever, and while I can't predict the future, I'm determined to treasure every moment we have together, even when he's being a handful. I'm incredibly thankful for the time we've had, for the chance to give him a fraction of the love he deserves.
 
-![](/tigerstroller.jpeg)![](/selfie.jpeg)
+![](</image0 (5).jpeg>)
