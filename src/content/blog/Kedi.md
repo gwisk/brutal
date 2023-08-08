@@ -5,7 +5,7 @@ bio: Ali El-Sadany is the co-editor of Film Slop and a proud cat dad
 author: Ali El-Sadany
 description: 'A Love Letter to Cats: The power of Kedi (2016)'
 pubDate: 'August 8, 2023'
-imgUrl: 'https://imgur.com/BNrUqgO'
+imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/image2 (1).jpeg'
 tags:
   - Pets
   - Cats
