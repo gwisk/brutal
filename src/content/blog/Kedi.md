@@ -19,11 +19,15 @@ Back in elementary school, whenever I had a day off, I'd bug my mom to take me t
 
 Then, about twelve years ago, something changed. I spotted a stray cat wandering around in our backyard. On a whim, I put out some food for him, hoping he would return. And it did. Over time, the cat kept coming back, and once my mom got used to his presence, she also started feeding him. Eventually, she let him sleep in our garage. And, not long after, my dad began to let him sleep in the house. Somehow, without really planning it, that stray cat adopted us.
 
-![](</image1 (2).jpeg>)![](</image1 (3).jpeg>)
+![](</image1 (2).jpeg>)
+
+![](</image1 (3).jpeg>)
 
 I’ve had Tiger (I named him that because I found him when I was 10 when I saw him and he looks like a tiger and I was an extremely perceptive ten year old) for about 12 years now. He's an outdoor cat, so I let him out in the morning and make sure he's back before sunset. His hobbies include going for walks outside—walks that I'm now obligated to join, even when I'd rather stay indoors. He’ll start by pawing at the window and if I ignore him, he moves to more drastic measures. I have no choice in the matter; he's figured out that I don't appreciate him scratching up the couch. So, when I resist his walks, he'll position himself next to the couch, paw menacingly resting on the leather, as if negotiating with me. It's become a sort of unspoken agreement—I must comply to save the couch.
 
-![](/image7.jpeg)![](</image4 (4).jpeg>)
+![](/image7.jpeg)
+
+![](</image4 (4).jpeg>)
 
 I recognized shades of Tiger’s terroristic tendencies in Ceyda Torun’s, Kedi, a delightful Turkish documentary centered around the cats of Istanbul. Kedi (2016) artfully introduces a cast of seven cats each strutting their own distinctive character and habits against the backdrop of Istanbul's diverse scenery. Yet, ' goes beyond just whiskers and paws; it offers a symphony of community life in Istanbul, celebrating the city's kaleidoscope of experiences, through the eyes of their most valued citizens: the cats. The cats of Kedi go beyond documentary subjects, they are individuals with their own personalities and quirks. Just like Tiger’s menacing paw threats, the deli cat, Duman, had (albeit a more dignified) way of pawing at the window when he wanted to be fed. I saw Tiger in so many of these cats; I saw Tiger in Gamsiz, the neighborhood troublemaker. But I didn't see just Tiger — Kedi is a love letter to cats and all their personalities. 
 
