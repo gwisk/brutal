@@ -15,9 +15,9 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
-Back in elementary school, whenever I had a day off, I'd bug my mom to take me to the pet shop just to hang out with the cats. Adopting a cat was a dream, but I knew my parents weren't keen on the idea. So, spending time with pet shop cats was my compromise..
+Back in elementary school, whenever I had a day off, I'd bug my mom to take me to the pet shop just to hang out with the cats. Adopting a cat was a dream, but I knew my parents weren't keen on the idea. So, spending time with pet shop cats was my compromise...
 
-Then, about twelve years ago, something changed. I spotted a stray cat wandering around in our backyard. On a whim, I put out some food for him, hoping he would return. And it did. Over time, the cat kept coming back, and once my mom got used to his presence, she also started feeding him. Eventually, she let him sleep in our garage. And, not long after, my dad began to let him sleep in the house. Somehow, without really planning it, that stray cat adopted us.
+Then, about twelve years ago, something changed. I spotted a stray cat wandering around in our backyard. On a whim, I put out some food for him, hoping he would return. And he did. Over time, the cat kept coming back, and once my mom got used to his presence, she also started feeding him. Eventually, she let him sleep in our garage. And, not long after, my dad began to let him sleep in the house. Somehow, without really planning it, that stray cat adopted us.
 
 ![](</image1 (2).jpeg>)
 
@@ -49,7 +49,6 @@ During the summer of 2023, I found myself in Istanbul on a 24-hour layover. As I
 
 Once I reached Istanbul, it hit me: there are so many cats in Istanbul and there would be no way I’d identify a specific cat in this sea of millions. Still, I was in heaven. This was their city, cats ruled the streets and I was simply a guest in their home, lucky enough to be blessed by their hospitality. Each cat I met was friendlier than the last, and I was engulfed in a wave of pure joy. While I couldn't cross off all the cats from my list, I held onto the hope of meeting Gamsiz, the bakery cat. I was able to find the specific bakery he frequented and the areas he circled. With the help of Google Translate and some limited Turkish, I found my way to a few people who directed me to an old lady who informed me that Gamsiz had passed away, a harsh reminder that the documentary was filmed over seven years ago. The moment was bittersweet. The woman and I overcame our language barriers and bonded over photos of Gamsiz; it was clear he was extremely special and would forever be immortalized in the neighborhood.
 
-
 ![](</image9 (1).jpeg>)
 
 ![](/image10.jpeg)
@@ -58,7 +57,7 @@ Even though *Kedi* may have immortalized Gamsiz in our hearts forever, Gamsiz is
 
 ![](</image0 (3).jpeg>)
 
-When I returned from Turkey, I had to work hard to earn Tiger's forgiveness. I'm almost certain he knew that I had spent time with other cats and his jealously was palpable. This wasn't the first time I've returned home with evidence of another cat. His grievance process for this type of situation is a pretty consistent two step process. First, he pretends to be mad and ignore me for a few days. This is his form of punishment. After a couple days of the cold shoulder he does a complete 180. He gives in and doesn't leave my side for a full week. Zero concept of personal space. He will make sure I am unable to do anything except give him my full undivided attention for the rest of the week. This includes work; he has figured out that I do not like it when he smashes his paws on my work laptop while I am working. Once again, I am forced to comply. 
+When I returned from Turkey, I had to work hard to earn Tiger's forgiveness. I'm almost certain he knew that I had spent time with other cats and his jealousy was palpable. This wasn't the first time I've returned home with evidence of another cat. His grievance process for this type of situation is a pretty consistent two step process. First, he pretends to be mad and ignores me for a few days. This is his form of punishment. After a couple days of the cold shoulder he does a complete 180. He gives in and doesn't leave my side for a full week. Zero concept of personal space. He will make sure I am unable to do anything except give him my full undivided attention for the rest of the week. This includes work; he has figured out that I do not like it when he smashes his paws on my work laptop while I am working. Once again, I am forced to comply.
 
 I'm reminded every day of how lucky I am to have time left with Tiger. He's 14 now, he's getting a lot older. I know it's coming and his loss will one day break me. Tiger's age has become a constant reminder that our time together is finite. As his whiskers grey with time, I'm reminded of the memories we've made together – from his persistent walks to his inexplicable love for disrupting my work. While I can't predict the future, I'm determined to treasure every moment we have together, especially when he's being a handful. I'm so grateful for the years we've had together, the stories we've crafted, and the moments we've shared. I'm incredibly thankful for the time we've had, and the time that we have left, beyond grateful for the chance to keep giving him a fraction of the love he deserves.
 
