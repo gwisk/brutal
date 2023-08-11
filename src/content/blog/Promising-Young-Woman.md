@@ -13,6 +13,8 @@ imgUrl: >-
   7, 2023 23.40.29.png
 tags:
   - Promising Young Woman
+  - Relationships
+  - Epiphany
 layout: ../../layouts/BlogPost.astro
 ---
 
