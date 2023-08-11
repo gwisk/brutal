@@ -27,6 +27,12 @@ export default defineConfig({
         path: "src/content/blog",
         fields: [
           {
+            type: "boolean",
+            name: "draft",
+            label: "Draft",
+            required: true,
+          },
+          {
             type: "string",
             name: "title",
             label: "Title",
@@ -100,6 +106,12 @@ export default defineConfig({
         label: "Features",
         path: "src/content/feature",
         fields: [
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Draft",
+            required: true,
+          },
           {
             type: "string",
             name: "title",
