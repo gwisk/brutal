@@ -1,8 +1,8 @@
 ---
 title: GDT's Pinocchio
 description: >-
-  The Invisible Hand of Grief: Self-reflection through Guillermo Del Toro's
-  Pinocchio (2022)
+  The Invisible Hand of Grief: Self-reflection through "Guillermo Del Toro's
+  Pinocchio" (2022)
 pubDate: 'August 2, 2023'
 subtitle: The Invisible Strings of Grief
 author: Huda Ismail
@@ -19,6 +19,7 @@ tags:
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/gdt_banner.jpeg'
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
+draft: true
 ---
 
 Despite the multitudes we encapsulate within us, as human beings we are tethered to each other in many ways, our unique stories are but a part of the fabric that holds our shared universal truths and experiences. Some stories are easily told and digested, while others we lock in hidden rooms in our psyche.
