@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Promising Young Woman
 subtitle: The funhouse mirror of Promising Young Woman
 bio: C.C. is an anonymous contributor
