@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import FeatureList from '../feature/FeatureList.astro';
+import { Button, Card } from '@eliancodes/brutal-ui';
+
+interface Props {
+  count?: number;
+}
+
+const { count } = Astro.props;
+
+const posts = await getCollection("feature").then((collection) => {
+	return collection
+		.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+		.slice(0, count ?? 6);
+});
+---
+
+<section class='mt-4'>
+  <Card>
+    <div class='flex justify-between items-start'>
+      <h2 class='dm-serif text-2xl md:text-4xl lg:text-6xl mb-6'>
+        Recent Features
+      </h2>
+      <div class='hidden md:block'>
+        <Button href='/feature/'><p class="poppins">All articles &rarr;</p></Button>
+      </div>
+      <div class='block md:hidden'>
+        <Button href='/feature/'><p class="poppins">All articles &rarr;</p></Button>
+      </div>
+    </div>
+    <FeatureList posts={posts} />
+  </Card>
+</section>

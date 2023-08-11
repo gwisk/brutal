@@ -1,0 +1,19 @@
+---
+interface Props {
+  content: any;
+}
+
+const { content } = Astro.props;
+---
+
+<article class='prose-slate w-sm md:w-prose md:prose sm:text-md lg:text-lg leading-none inter'>
+  <img src={content.imgUrl} class='rounded object-cover mx-auto h-md' alt="Banner">
+  <h1 class="dm-serif">{content.title}</h1>
+  <h2 class="dm-serif" style="margin-top:-5px">{content.subtitle}</h2>
+  <h3 class='dm-serif'>
+  {content.author} · {content.pubDate} </h3>
+  <h4 class="dm-serif">{content.minutesRead}</h4>
+  <slot />
+  <h3 class="dm-serif"><i>{content.bio}</i></h3><br>
+  <a href='/feature/' title='Back to articles'><p class="poppins">&larr; Back to features</p></a>
+</article>
