@@ -34,9 +34,9 @@ const formattedPublishDate = new Date(post.data.pubDate).toLocaleDateString(
   </div>
 
   <div class='hidden sm:inline-block'>
-    <p class='poppins mt-2'>tags:</p>
-    <div class='flex justify-between items-center'>
-      <ul class='flex gap-2 mt-2'>
+    <!-- <p class='poppins mt-2'>tags:</p>
+    <div class='flex justify-between items-center'> -->
+      <!-- <ul class='flex gap-2 mt-2'>
         {
           post.data.tags.map((tag) => {
             return (
@@ -48,7 +48,7 @@ const formattedPublishDate = new Date(post.data.pubDate).toLocaleDateString(
             );
           })
         }
-      </ul>
+      </ul> -->
       {
         post.data.draft && (
           <span class='bg-green rounded-full border-2 py-1 px-4 text-sm border-black card-shadow'>
