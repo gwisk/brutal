@@ -4,7 +4,7 @@ subtitle: 'A Love Letter to Cats, Specifically My Cat'
 bio: Ali El-Sadany is the co-editor of Film Slop
 author: Ali El-Sadany
 description: >-
-  A Love Letter to Cats: Reflecting on Kedi (2016), my cat, and the beautiful
+  A Love Letter to Cats: Reflecting on "Kedi" (2016), my cat, and the beautiful
   streets of Istanbul
 pubDate: 'August 8, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/image2 (1).jpeg'
@@ -13,6 +13,7 @@ tags:
   - Cats
   - Pets
 layout: ../../layouts/BlogPost.astro
+draft: false
 ---
 
 Back in elementary school, whenever I had a day off, I'd bug my mom to take me to the pet shop just to hang out with the cats. Adopting a cat was a dream, but I knew my parents weren't keen on the idea. So, spending time with pet shop cats was my compromise...
