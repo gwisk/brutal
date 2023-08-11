@@ -5,8 +5,8 @@ subtitle: The funhouse mirror of Promising Young Woman
 bio: C.C. is an anonymous contributor
 author: C.C.
 description: >-
-  The Funhouse Mirror: Reflections through Emerald Fennell's Promising Young
-  Woman (2020)
+  The Funhouse Mirror: Reflections through Emerald Fennell's "Promising Young
+  Woman" (2020)
 pubDate: 'August 11, 2023'
 imgUrl: >-
   https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Untitled - August
