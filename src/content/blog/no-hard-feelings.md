@@ -14,9 +14,10 @@ tags:
   - Change
 imgUrl: >-
   https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/no_hard_feelings_banner.png
-description: 'Tourist Town: Understanding change and home through No Hard Feelings (2023)'
+description: 'Tourist Town: Understanding change and home through "No Hard Feelings" (2023)'
 layout: ../../layouts/BlogPost.astro
 header: banner1.jpg
+draft: false
 ---
 
 <div align="center">
