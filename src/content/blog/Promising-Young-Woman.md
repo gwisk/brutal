@@ -18,6 +18,8 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
+*The illustration above was created by Ezra Blank, a Pittsburgh based artist.*
+
 I don’t remember watching *Promising Young Woman*. But I remember the drive home. 
 
 I turned the car slowly out of the theater parking lot. The highway was quiet, draped in low-hanging clouds and ice. Apparently everyone else had something better to do on December 25th. 
@@ -57,5 +59,3 @@ But in its failure, I found my revelation. Without that winter drive, I would’
 *Promising Young Woman* taught me how to tell an honest story in its failure to write one. And it helped me recognize where I want my story to differ from Cassie’s. Her need to punish those she deems responsible consumes her because ultimately, that vengeance is self-flagellating. She didn’t protect her friend. She feels as guilty as those on her hit list. While Nina’s own mother advises her to move on, to live her own life, she can’t. She can’t forgive herself.
 
 I think I can. 
-
-*The illustration above was created by Ezra Blank, a Pittsburgh based artist.*
