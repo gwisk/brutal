@@ -9,8 +9,7 @@ description: >-
   Woman" (2020)
 pubDate: 'August 11, 2023'
 imgUrl: >-
-  https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Untitled - August
-  7, 2023 23.40.29.png
+  https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/promising_young_woman.png
 tags:
   - Promising Young Woman
   - Relationships
@@ -38,7 +37,7 @@ Returning to *Promising Young Woman*, almost two years later, I’m left with ne
 
 Perhaps it was a type of uncanny valley. He looked into a funhouse mirror, with all the warts and ugliness accentuated in the glass, and grew angry when he still recognized his own face. 
 
-And what a stylized, uncomfortable mirror. *Promising Young Woman *portrays a growing female rage like I’d never seen before, but one I’d come to intimately know after that first viewing. In one of its most powerful scenes, we see Cassie take a tire iron to a man’s truck for honking at her at a red light. Music swells as she bashes one headlight, then another, and next his front window. I could feel the vibrating metal in my hands, my teeth. I could hear it at the back of my skull. 
+And what a stylized, uncomfortable mirror. \*Promising Young Woman \*portrays a growing female rage like I’d never seen before, but one I’d come to intimately know after that first viewing. In one of its most powerful scenes, we see Cassie take a tire iron to a man’s truck for honking at her at a red light. Music swells as she bashes one headlight, then another, and next his front window. I could feel the vibrating metal in my hands, my teeth. I could hear it at the back of my skull. 
 
 In those moments, Cassie expresses pure fury at her powerlessness, her inability to right an obvious, painful, and personal injustice. I’ve held that feeling in my chest since my relationship ended. I’ve learned to let it pour out softly or all at once, like taking an iron to glass. 
 
