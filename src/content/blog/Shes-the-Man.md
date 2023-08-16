@@ -1,6 +1,6 @@
 ---
 draft: false
-title: She's the Man
+title: She's The Man
 subtitle: Gender identity through She's the man
 bio: This piece was submitted by an anonymous contributor
 author: Anonymous
