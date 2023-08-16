@@ -14,7 +14,7 @@ tags:
   - She's the Man
 ---
 
-“I need your advice, man. I got lady troubles.” “I’m here for you, bro. I got a lifetime of knowledge.”
+> *“I need your advice, man. I got lady troubles.” “I’m here for you, bro. I got a lifetime of knowledge.”*
 
 When I watched She’s the Man (2006, dir. Andy Flickman) on a whim one night this summer, I expected some 2000s fun, camp, and subtle queer overtones (it is an adaptation of Shakespeare’s “Twelfth Night,” after all). What I wasn’t expecting is to see so many relatable aspects of the transmasculine experience reflected on film.
 
