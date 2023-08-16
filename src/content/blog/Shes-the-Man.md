@@ -6,7 +6,7 @@ bio: This piece was submitted by an anonymous contributor
 author: Anonymous
 description: 'Reflecting on gender identity through She''s The Man (2006) '
 pubDate: 'August 16,2023'
-imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/STM_article .webp'
+imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/STM_cover.webp'
 layout: ../../layouts/BlogPost.astro
 ---
 
@@ -41,7 +41,6 @@ There’s another clunky moment where Viola mentions that Sebastian’s sister (
 
 This scene also reveals another interesting theme throughout the film; gender is validated through the opposite sex. The movie goes hardest with the theme in an early scene, where the hairdresser hires multiple women to go up to Viola and tell her that she’s a wonderful lover, but understanding that she’s too much man to handle one woman. After that, Viola becomes a legend with her male friends. In the end, gender is always reinforced by heterosexuality. When I first started exploring my trans feelings, I identified as a lesbian. Weirdly, my gender felt affirmed when I had a crush on a guy and those feelings of manhood didn’t go away. I think it’s also interesting that Viola does not study her (obviously coded-to-be) gay stylist in her scholarly pursuit of manhood. Manhood is defined by straight manhood, which feels both relatable (as I like girls) and not relatable, as my sexuality has been shunned for most of my life for being a “queer” sexuality.
 
-
 ![](/STMgym.jpeg)
 
 There’s a “blink-and-you’ll-miss-it” scene in the middle of the film that reads like a Judith Butler text on gender performativity. Viola is practicing flirting with Duke, and she roleplays as Olivia. Duke remarks how scarily easy it was for her to pass as a woman, and she tells him she’s pretended to be her sister throughout her life. The trans man in me finds the phrasing of “pretending to be my sister” interesting. There’s a sense of pretending inherent to transness that’s recognizable in this movie, even if Viola is really just pretending to be Sebastian. This film explores how full the performance of pretending is.
@@ -53,5 +52,3 @@ A devastatingly relatable aspect to the movie, that’s not specific to transnes
 ![](/STMteam.webp)
 
 The rest of the film is just fun Shakespearean shenanigans and Channing Tatum proving his comedic prowess in a queer-coded role (like he would later do in the Jump Street series). But those strings of studying manhood, exploring manhood’s complicated relationship with patriarchal structures, and showing a gender-crossing narrative that extends thematically beyond the usual “haha dressing as the opposite gender” joke is unexpectedly powerful. There’s also not an abundance of transmasculine film, much less in larger pop culture. So it’s wonderful and unexpected to watch this gem of a 2006 comedy depict  moments of my transmasculine experience so well.
-
-
