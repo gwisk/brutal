@@ -8,6 +8,10 @@ description: 'Reflecting on gender identity through She''s The Man (2006) '
 pubDate: 'August 16,2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/STM_cover.webp'
 layout: ../../layouts/BlogPost.astro
+tags:
+  - Transmasc
+  - Gender Identity
+  - She's the Man
 ---
 
 “I need your advice, man. I got lady troubles.” “I’m here for you, bro. I got a lifetime of knowledge.”
