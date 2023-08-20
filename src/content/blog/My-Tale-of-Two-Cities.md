@@ -110,9 +110,7 @@ that it’s his greatest defeat, is that it is his worst time, because bad times
 are today, and you must be grateful for yourself, so you are indebted to your trauma, forever and
 ever.
 
-![](</image8 (2).jpeg>)
-
-
+![](</image6 (4).jpeg>)
 Perhaps this debt is why Carl chooses to put himself in harm’s way over and over and
 over. It is not that he is addicted to the pain, although he may be at this point. Perhaps originally
 it was simply the treatment that he saw fit, what he deserved to receive, that he and he alone was
@@ -123,6 +121,6 @@ someone else weak. Yet what of the compulsion to repeat that begs for no change,
 repetition of pain, where does this come from? Carl knows, Carl lives it, Carl is that ache inside
 all of us that receives a kick to the teeth and prays only for a further curbstomp.
 
-![](</image6 (4).jpeg>)
+![](</image8 (2).jpeg>)
 
 When my mind takes a flagellant bent, when the plagues of the world seem emanating from me, the only solution in absolution, in death of the strength of my flesh, look now upon Carl to see how narcissism infects me even now! The hairshirt is a call to my crimes against fashion, judgmental eyes still cast attention. Am I not past these school-yard games? The miasma I breathe in, ah, what matters if it be flesh-borne or air-borne, it is choking me now. Fie, fly away from its intoxicating pull, let fleeing not be delayed by the dalliance of the tongue. A woman can talk herself into oblivion while feeling all the while she is doing her God-given duty to accommodate the forces that drown her. If my tongue inches budgingly across some sandpaper world, take leave of it at once. There is a joy to be found in learning to love the taste and friction, but it comes at the cost of your dignity, and it's everyone's duty to be a great artist. An artist without dignity is a spectacle; there is a value in that, but never forget that the indignant audience would prefer you to at least put forth a good effort, leave claw-marks along the walls of your pit, a little earnest desperation always enlivens the soul. I salute you, Carl, mirror-image of my ego, more fascinated by making a fool of myself than the jokes I tell themselves. Patron-saint, anti-mensch, I hope to walk as your mirror-image away from this point of reflection, opposite of you in every way but one.
