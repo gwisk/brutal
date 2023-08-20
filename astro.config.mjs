@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import UnoCSS from 'unocss/astro';
 import { remarkReadingTime } from './remark-reading-time.mjs';
-import compress from "astro-compress";
+import Compress from "astro-compress";
 import sitemap from '@astrojs/sitemap';
 // import { astroImageTools } from "astro-imagetools";
 import vue from "@astrojs/vue";
@@ -19,7 +19,9 @@ export default defineConfig({
     }), 
     vue(), 
     robotsTxt(),
-    compress()],
+    Compress({ 
+      Path: ["./target", "./build", "./dist"],
+  })],
   markdown: {
     remarkPlugins: [remarkReadingTime]
   },
