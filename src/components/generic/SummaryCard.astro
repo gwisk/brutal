@@ -1,5 +1,7 @@
 ---
-import { Img } from "astro-imagetools/components";
+// import { Img } from "astro-imagetools/components";
+import { Card } from '@eliancodes/brutal-ui';
+
 
 interface Props {
   title: string;
@@ -9,17 +11,16 @@ interface Props {
   pubDate: string;
 }
 
-import { Card } from '@eliancodes/brutal-ui';
+
 
 const { title, imgAlt, imgSrc, pubDate, description } = Astro.props;
 ---
 
-<Card
-  color="white"
->
-  <h2 class='dm-serif text-lg md:text-3xl'>{title}</h2>  <p class="poppins text-slate-600">{pubDate}</p>
-  <div class='rounded-lg border-black my-4 sm:h-80 md:h-58 xl:h-56'>
-    <Img
+<Card color="white">
+  <h2 class='dm-serif text-lg md:text-3xl'>{title}</h2>  
+  <p class="poppins text-slate-600">{pubDate}</p>
+  <div class='rounded-lg border-black my-4 sm:h-80 md:h-58 xl:h-56 border-3'>
+    <img
       src={imgSrc}
       alt={imgAlt}
       width={800}
