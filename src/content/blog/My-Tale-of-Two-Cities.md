@@ -11,7 +11,9 @@ bio: >-
   on Instagram (@gummoenthusiast), Twitter (@herpesma), and Substack
   (https://freebodydiagram.substack.com/).
 author: Audrey Petrozzi
-description: 'For better or for worse, we are all Carl. Carl is infinite'
+description: >-
+  For better or for worse, My Tale of Two Cities (2008) reminds us that we are
+  all Carl. Carl is infinite
 pubDate: 'August 20, 2023'
 imgUrl: >-
   https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Screenshot
