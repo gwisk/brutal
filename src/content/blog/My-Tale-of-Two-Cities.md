@@ -32,6 +32,8 @@ more. More, more, greed lies in your words, your eyes, a hunger for more pricks,
 and more lashing words. Let it hurt, let it bleed.
 
 ![](</image9 (2).jpeg>)
+
+
 Go on Youtube, type in “My Tale of Two Cities”, click the first link, the one uploaded by
 Carl Kurlander. Watch the documentary and see a man dissected before your eyes. The basics:
 Carl wrote one movie, St. Elmo’s Fire, one of the big teen hits of the 80s, leaving him with
@@ -50,6 +52,8 @@ Clothes, perfect for a fool and no one else. In his talkative nakedness, you lea
 jokes, none of them land. He jokes, everyone gets mad.
 
 ![](</image2 (2).jpeg>)
+
+
 The joke that doesn’t land is a tell-tale sign of the apopheniac, the precursor to the
 schizophrenic. Apophenia, that marvelous promise of genius, the ability to read between the lines
 that no one else can see, to feel the connections, bodily, between disparate parts and still see it as
@@ -66,6 +70,8 @@ enervating fallout; he does not even attempt to justify his words, but rather he
 tear him apart because of them, a Daniel in love with the lions.
 
 ![](</image10 (1).jpeg>)
+
+
 The whole film follows this nonsensical, often pun-based structure. When Carl eats fish
 from the famously dirty Monongahela River, why, it’s only natural that the next place they visit
 should be the morgue, as if the promise of Carl’s poisoning and early demise must be given some
@@ -74,6 +80,8 @@ explicated the resulting logic inspires only a desire to punish and harass the m
 misguided and puerile thinking.
 
 ![](</image7 (1).jpeg>)
+
+
 The production problems glare: a misinformed cameraman, a sadistic editor, and more
 than all a complete lack of direction. Carl even takes it as a compliment to be called ‘the
 director’ of the feature. By these means the film becomes incoherent, structured by nothing. It
@@ -103,6 +111,8 @@ are today, and you must be grateful for yourself, so you are indebted to your tr
 ever.
 
 ![](</image8 (2).jpeg>)
+
+
 Perhaps this debt is why Carl chooses to put himself in harm’s way over and over and
 over. It is not that he is addicted to the pain, although he may be at this point. Perhaps originally
 it was simply the treatment that he saw fit, what he deserved to receive, that he and he alone was
