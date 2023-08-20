@@ -1,7 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
-import BlogList from '../blog/BlogList.astro';
-import { Button, Card } from '@eliancodes/brutal-ui';
+import BlogList from "@components/blog/BlogList.astro";
+import { Button, Card } from "@eliancodes/brutal-ui";
+import { getCollection } from "astro:content";
 
 interface Props {
   count?: number;
@@ -9,9 +9,10 @@ interface Props {
 
 const { count } = Astro.props;
 
-const posts = await getCollection("blog").then((collection) => {
-	return collection
-		.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+const posts = await getCollection("blog").then((posts) => {
+	return posts
+		.sort((a, b) => a.data.pubDate.getTime() - b.data.pubDate.getTime())
+    .reverse()
 		.slice(0, count ?? 6);
 });
 ---
