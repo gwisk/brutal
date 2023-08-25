@@ -3,7 +3,7 @@ draft: false
 title: First Reformed
 subtitle: >-
   Immanent Responsibility: Freedom and Despair in Winter Light and First
-  Reformed
+  Reformed (2017)
 bio: >-
   Konner (he/they) is a PhD student studying philosophy of physics and
   mathematics. Their interests include STEM, literature, film, and music. Find
@@ -12,7 +12,7 @@ bio: >-
 author: Konner Childers
 description: >-
   Immanent Responsibility: Freedom and Despair in Winter Light and First
-  Reformed
+  Reformed (2017)
 pubDate: 'August 25, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/IMG_8916 2.jpg'
 tags:
@@ -70,7 +70,7 @@ Returning to First Reformed, Ernst Toller, the pastor, is asked by a pregnant pa
 
 </center>
 
-It is uncomfortable watching a character unravel in the way Ernst does when talking to Michael. Every rebuttal and inquiry directed to Rev. Toller is met with two eyes darting to the floor, while his mendacious thumb caresses his mug like a crucifix. The conversion events in each movie are opposed: whereas Tomas is liberated from compunction with the death of god, Toller is convinced by what Michael has revealed ("I shared his beliefs but not his despair") and is liberated towards responsibility. Toller already knows guilt intimately ("I talked my son into a war that had no moral justification"), yet the most important thing we can do in acknowledging our (global) iniquity is to continually accept responsibility in repairing our world. But this does not mean wallowing in condemnation and guilt—that would be another form of despair. Rather, as Toller (echoing Kierkegaard) says, "courage is the answer to despair…we have to choose despite uncertainty." We should be on guard against two extremes, self-assurance and self-defeating despair, both of which constrain us to apathy. Each day I am tempted by the latter, as many of you probably are. But let us remember the contradiction Michael embodies: by virtue of being an activist and raising alarm he implicitly commits himself to the possibility of change and not a [fatalist calamity.](https://www.carbonbrief.org/explainer-will-global-warming-stop-as-soon-as-net-zero-emissions-are-reached/ "fatalist calamity.")
+It is uncomfortable watching a character unravel in the way Ernst does when talking to Michael. Every rebuttal and inquiry directed to Rev. Toller is met with two eyes darting to the floor, while his mendacious thumb caresses his mug like a crucifix. The conversion events in each movie are opposed: whereas Tomas is liberated from compunction with the death of god, Toller is convinced by what Michael has revealed ("I shared his beliefs but not his despair") and is liberated towards responsibility. Toller already knows guilt intimately ("I talked my son into a war that had no moral justification"), yet the most important thing we can do in acknowledging our (global) iniquity is to continually accept responsibility in repairing our world. But this does not mean wallowing in condemnation and guilt—that would be another form of despair. Rather, as Toller (echoing Kierkegaard) says, "courage is the answer to despair…we have to choose despite uncertainty." We should be on guard against two extremes, self-assurance and self-defeating despair, both of which constrain us to apathy. Each day I am tempted by the latter, as many of you probably are. But let us remember the contradiction Michael embodies: by virtue of being an activist and raising alarm he implicitly commits himself to the possibility of change and not a[ fatalist calamity.](https://www.carbonbrief.org/explainer-will-global-warming-stop-as-soon-as-net-zero-emissions-are-reached/ "fatalist calamity.")
 
 <center>
 
