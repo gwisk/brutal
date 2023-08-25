@@ -1,10 +1,10 @@
 ---
 draft: false
 title: She's The Man
-subtitle: Gender identity through She's the man
+subtitle: Reflecting on gender identity through She's The Man (2006)
 bio: This piece was submitted by an anonymous contributor
 author: Anonymous
-description: 'Reflecting on gender identity through She''s The Man (2006) '
+description: 'Anonymous reflections on gender and identity through She''s The Man (2006) '
 pubDate: 'August 16,2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/STM_cover.webp'
 layout: ../../layouts/BlogPost.astro
