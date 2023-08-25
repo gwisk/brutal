@@ -20,9 +20,9 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
-"Look people have, throughout history, woken up in the dead of the night, confronted by blackness…the sense that our lives are without meaning, the sickness unto death—"
+*"Look people have, throughout history, woken up in the dead of the night, confronted by blackness…the sense that our lives are without meaning, the sickness unto death—"*
 
-"Yeah, but this is something different!"
+*"Yeah, but this is something different!"*
 
 (Ernst and Michael) 
 
