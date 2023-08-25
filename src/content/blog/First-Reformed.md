@@ -38,7 +38,7 @@ Paul Schrader’s First Reformed (2017) is one of the most poignant, honest, and
 
 <center>
 
-![](/Frch.jpeg)
+![](/FRCH.png)
 
 </center>
 
@@ -91,5 +91,3 @@ For me, the well-known photograph of an emaciated polar bear (shown on Michael�
 </center>
 
 Both First Reformed and Winter Light flirt with despair, and both offer avenues through and around it. But the problems posed in Winter Light, though amplified with the onset of modernity, are ill-posed. Whereas the looming problem in Bergman’s trilogy is the silence of god, First Reformed confronts us with our own silence. However, despair is a mistake. Though our ignominious participation in corrupting the earth precedes us, we always have moments of redemption, in which we can accept responsibility to heal our wasteland.
-
-
