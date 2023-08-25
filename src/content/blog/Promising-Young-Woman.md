@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Promising Young Woman
-subtitle: The funhouse mirror of Promising Young Woman
+subtitle: The funhouse mirror of Promising Young Woman (2020)
 bio: C.C. is an anonymous contributor
 author: C.C.
 description: >-
