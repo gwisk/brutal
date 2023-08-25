@@ -2,7 +2,7 @@
 draft: false
 title: First Reformed
 subtitle: >-
-  Immanent Responsibility: Freedom and Despair in Winter Light and First
+  Immanent Responsibility: Freedom and Despair in Winter Light (1963) and First
   Reformed (2017)
 bio: >-
   Konner (he/they) is a PhD student studying philosophy of physics and
@@ -20,9 +20,7 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
-> Look people have, throughout history, woken up in the dead of the night, confronted by blackness…the sense that our lives are without meaning, the sickness unto death—
-
-> Yeah, but this is something different!
+> Look people have, throughout history, woken up in the dead of the night, confronted by blackness…the sense that our lives are without meaning, the sickness unto death—Yeah, but this is something different!
 
 (Ernst and Michael) 
 
