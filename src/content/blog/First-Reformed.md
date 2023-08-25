@@ -11,7 +11,7 @@ bio: >-
   @weylperson. His website is konnerchilders.com
 author: Konner Childers
 description: >-
-  Immanent Responsibility: Freedom and Despair in Winter Light and First
+  Immanent Responsibility: Freedom and Despair in Winter Light (1963) and First
   Reformed (2017)
 pubDate: 'August 25, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/IMG_8916 2.jpg'
