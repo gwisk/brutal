@@ -46,7 +46,7 @@ The opening credits of First Reformed are presented in the same manner as one mi
 
 <center>
 
-![](/WinterLifht.jpeg)
+![](/winter.jpeg)
 
 </center>
 
