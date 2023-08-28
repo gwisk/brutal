@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Chungking Express (1994)
+title: Chungking Express
 subtitle: The pH of pineapple is somewhere between 3.2 and 4.0
 bio: >-
   George Iskander is co-editor of FilmSlop and a PhD student in physics. He
@@ -58,6 +58,4 @@ Other than a religious tattoo on my wrist, my only tattoo is a Del Monte pineapp
 
 ![](</image3 (4).jpeg>)
 
-> I'm thinking about how this won’t work out, 
-
-> in the end.
+> I'm thinking about how this won’t work out, in the end.
