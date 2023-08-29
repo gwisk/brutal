@@ -7,8 +7,8 @@ bio: >-
   tweets from @jerseyphysicist.
 author: George Iskander
 description: >-
-  The pH of pineapple is somewhere between 3.2 and 4.0: Explorations of
-  Nostalgia in Wong Kar-Wai's Chungking Express (1994)
+  The pH of pineapple is somewhere between 3.2 and 4.0: Nostalgia in Wong
+  Kar-Wai's Chungking Express (1994)
 pubDate: 'August 28, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Pineapple.png'
 tags:
