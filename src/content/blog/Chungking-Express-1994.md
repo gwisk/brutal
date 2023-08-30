@@ -40,7 +40,7 @@ The pineapple can is the rubber band ball I would make as a kid — at its core 
 
 ![](</ball (1).webp>)
 
-When it comes to nostalgia, the punishment for immoderation is death. Lot’s wife, driven from her home by Divine command, could not shake a nostalgia (nostos “home” + algos “pain,” nostalgia in the original sense). In front of her: a God-promised future. Behind her: a corrupt city, but a home, her home, nonetheless. She must have remembered her house, the garden in her backyard, the garden where she grew pineapples for her and Lot. Missing their sweetness, she turned around and became not sugar but its often-mistaken cousin, salt. In our journey towards the Divine, our attachment to the material becomes a stumbling block. Nostalgia makes a bitterness out of sweetness. 
+When it comes to nostalgia, the punishment for immoderation is death. Lot’s wife, driven from her home by Divine command, could not shake a nostalgia (*nostos* “home” + *algos* “pain,” nostalgia in the original sense). In front of her: a God-promised future. Behind her: a corrupt city, but a home, her home, nonetheless. She must have remembered her house, the garden in her backyard, the garden where she grew pineapples for her and Lot. Missing their sweetness, she turned around and became not sugar but its often-mistaken cousin, salt. In our journey towards the Divine, our attachment to the material becomes a stumbling block. Nostalgia makes a bitterness out of sweetness. 
 
 > In the door of my fridge I keep a party-opened bottle of wine (soon: vinegar).
 
