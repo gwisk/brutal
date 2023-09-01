@@ -33,6 +33,7 @@ export const GET: APIRoute = async ({ params, props }) => {
         <div style="display: flex; justify-content: space-between;">
           <div style="display: flex; flex-direction: column; gap: 0.75rem;">
             <p style="font-size: 48px;">FilmSlop</p>
+			<p style="font-size: 38px;">${title}</p>
           </div>
           <img src="data:," width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
         </div>
