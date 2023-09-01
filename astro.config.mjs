@@ -29,8 +29,5 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"]
     }
-  },
-  experimental: {
-    assets: true
-   }
+  }
 });

@@ -2,7 +2,7 @@ import type { APIRoute } from "astro";
 import satori from "satori";
 import { Config } from '@eliancodes/brutal-ui';
 import { html as toReactElement } from "satori-html";
-import { ResvgRenderOptions, Resvg } from "@resvg/resvg-js";
+import { type ResvgRenderOptions, Resvg } from "@resvg/resvg-js";
 
 const fontFile = await fetch(
 	"https://og-playground.vercel.app/inter-latin-ext-700-normal.woff"
@@ -13,7 +13,7 @@ const fontData: ArrayBuffer = await fontFile.arrayBuffer();
 const height = 700;
 const width = 1400;
 
-export const get: APIRoute = async () => {
+export const GET: APIRoute = async () => {
 	const bgColor = Config.colors[Math.floor(Math.random() * Config.colors.length)];
 	const link = "filmslop.com";
 	const html = toReactElement(`

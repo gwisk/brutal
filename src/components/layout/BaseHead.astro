@@ -1,5 +1,6 @@
 ---
 import { SEO } from "astro-seo";
+import { ViewTransitions } from 'astro:transitions';
 
 interface Props {
   title: string;
@@ -64,6 +65,7 @@ const { title, description, ogImage } = Astro.props;
     rel="stylesheet"
   />
   <link href="https://fonts.bunny.net/css?family=bungee" rel="stylesheet" /> -->
+  <ViewTransitions />
 
   <slot />
 </head>
