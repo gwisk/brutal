@@ -40,6 +40,7 @@
     "reading-time": "^1.5.0",
     "satori": "^0.10.1",
     "satori-html": "^0.3.2",
+    "sharp": "^0.32.5",
     "teenyicons": "^0.4.1",
     "tinacms": "^1.5.12",
     "vue": "^3.3.4"
