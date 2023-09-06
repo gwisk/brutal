@@ -1,13 +1,15 @@
 ---
 draft: false
 title: 'TV Slop: Mad Men'
-subtitle: Don Draper’s Sinful Progression Through the 9 Circles of Hell
+subtitle: Don Draper’s Wicked Progression Through the 9 Circles of Hell
 bio: >-
   Senote Keriakes is an Egyptian-Australian dentist and writer. He writes about
   whatever piques his interest but focuses on history, language and
   philosophy.   Follow him on Instagram: @senote.jpg
 author: Senote Keriakes
-description: Don Draper’s Sinful Progression Through the 9 Circles of Hell
+description: >-
+  Don Draper’s Wicked Progression Through the 9 Circles of Hell: An Exploration
+  of Dante's Inferno Through Mad Men
 pubDate: 'September 5, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Donte.avif'
 tags:
