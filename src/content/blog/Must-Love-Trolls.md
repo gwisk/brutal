@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Must Love Trolls
 subtitle: Blessing the rest of the world with the "gospel of Trolls"
 bio: >-
@@ -44,5 +44,3 @@ Regarding the overarching themes, there are many ways that each viewer can make 
 In most children’s movies, there is minimal conflict, and the resolution is swift. The problems are usually overshadowed by a joyful message. Trolls separates itself from other movies by layering in quite a few conflicts, from the beginning until the final resolution. Instead of a happy movie dotted with a small problem here and there, Trolls carefully constructs a consistent discord that is punctuated with humor and musical numbers. The result is a highly nuanced emotional film, in which the viewer is a bit unsettled at the thrill, but also laughing and smiling at the relief. In this, Trolls reflects the intricacies of real life, which supports a connection between the movie and the viewer. This movie is only 92 minutes long, but by the end you will have felt a mix of hope, fear, happiness, apprehension, relief, amusement, annoyance, and content. Personally, this mix of feelings has never wavered no matter how many times I watch this movie.
 
 Beyond my personal interpretation of Trolls, I love how it helps me connect to others. I will never forget my first viewing of the movie with my cousin. We reference the movie constantly, and it is a source of attachment for us. I feel like I spread the “gospel of Trolls” whenever I tell someone to watch–it’s like a network of my own Trolls watchers. It helps me to keep in touch with people, and it also fosters correspondence and communication. Although this became a “bit” for me to be obsessed with Trolls, this obsession is more than just a silly joke to me. Thank you to everyone who has watched, and to the skeptics out there–you BETTER take a second look.
-
-
