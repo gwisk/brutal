@@ -9,7 +9,7 @@ interface Props {
 
 const { count } = Astro.props;
 
-const posts = await getCollection("blog").then((posts) => {
+const posts = await getCollection("blog", ({ data }) => !data?.draft).then((posts) => {
 	return posts
 		.sort((a, b) => a.data.pubDate.getTime() - b.data.pubDate.getTime())
     .reverse()
