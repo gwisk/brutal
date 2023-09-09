@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Amjad Al Rasheed - Inshallah A Boy
 subtitle: >-
   Amjad Al-Rasheed is a Jordanian director, producer and writer born in 1985 in
@@ -73,5 +73,4 @@ Al-Rasheed looks deep in thought as I ask him about three of his favourite films
 
 “One film that really captured my attention this year was Triangle of Sadness. I loved it quite a lot.’’
 
-
-About his future plans, Al-Rasheed reveals to FilmSlop, “I’m currently working on a project that’s in the early stages of development so I can’t say much, but it’s an idea I feel strongly about.’’ Al-Rasheed lightly laughs as he shares his feelings about approaching new projects, “I feel like I’m back at point zero. The doubts and obstacles are there and I do feel like the pressure increases as you move onto making your next film, so I’m just giving myself the space to discover and navigate this whole process as I go.’’ I ask him if there are any valuable lessons he’d learned from his previous experiences that aid him now, “I’ve definitely learned to be patient. Everything takes longer than we’d expect but it’s important we have patience and keep creating.’’ 
+About his future plans, Al-Rasheed reveals to FilmSlop, “I’m currently working on a project that’s in the early stages of development so I can’t say much, but it’s an idea I feel strongly about.’’ Al-Rasheed lightly laughs as he shares his feelings about approaching new projects, “I feel like I’m back at point zero. The doubts and obstacles are there and I do feel like the pressure increases as you move onto making your next film, so I’m just giving myself the space to discover and navigate this whole process as I go.’’ I ask him if there are any valuable lessons he’d learned from his previous experiences that aid him now, “I’ve definitely learned to be patient. Everything takes longer than we’d expect but it’s important we have patience and keep creating.’’
