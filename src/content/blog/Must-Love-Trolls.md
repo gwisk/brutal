@@ -1,13 +1,17 @@
 ---
 draft: false
 title: Must Love Trolls
-subtitle: Blessing the rest of the world with the "gospel of Trolls"
+subtitle: >-
+  Thought-Provoking Musings on the Hit Series, Trolls: Behold The "Gospel of
+  Trolls"
 bio: >-
   Sam Becker loves Trolls but she also loves making hats with weird phrases on
   them. Please give her money to open an art gallery in San Francisco. Also, she
   legally has to say she’s from New Jersey. 
 author: Sam Becker
-description: Blessing the rest of the world with the "gospel of Trolls"
+description: >-
+  Thought-Provoking Musings on the Hit Series, Trolls: Behold The "Gospel of
+  Trolls"
 pubDate: 'September 9, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/ssss.jpeg'
 tags:
@@ -33,7 +37,7 @@ Along with the design aspects, the immediate revelation of the villains and thei
 
 Within the opening scene at Bergen Town, the Trolls are shown escaping the confinement of the Bergens through a series of underground tunnels and starting a new civilization far away from their oppressors. After their successful emigration, the movie jumps ahead about twenty years to show the Trolls thriving in their little world. The following scenes introduce the Trolls cast to the audience. The community, led by the quirked-up Princess Poppy, are undoubtedly overjoyed in their new situation, but they have also taken for granted the danger that they left behind in Bergen Town. This causes Poppy to carelessly throw a project-X level banger, alerting the Bergens to their hiding spot. The Bergens captured almost ten trolls during this party-gone-wrong, which begins the foundational conflict of the movie. Poppy must rescue her friends or forever be known as the monarch that ruined everyone’s happy lives. As difficult as this may seem, Poppy is not alone in this quest. The other main troll in the movie, Branch, is along for the ride. 
 
-![](/poppybranch.jpeg)
+![](/Pranch.webp)
 
 The central interactions of the movie come through Poppy and Branch. Poppy is undeniably the earnestly spirited character that the audience is meant to root for, while Branch is the pragmatic presence that pulls Poppy back to reality. They are shown as opposites–Poppy is boundary-less and Branch has sturdy walls surrounding him. Poppy is idealistic and compassionate, but she is also careless and headstrong in the name of “doing the right thing.” Branch is intelligent and loyal, but he is antisocial and pessimistic. The two are made to balance each other out–dare I say the writers had Yin and Yang on the mind? The polarity of the pair is irritatingly intense at times, but nevertheless, their balance prevails to a greater end. 
 
