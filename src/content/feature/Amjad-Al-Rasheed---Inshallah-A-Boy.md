@@ -1,21 +1,17 @@
 ---
-draft: true
+draft: false
 title: Amjad Al Rasheed - Inshallah A Boy
 subtitle: >-
-  Amjad Al-Rasheed is a Jordanian director, producer and writer born in 1985 in
-  Amman, Jordan. This year, his debut feature Inshallah A Boy became the first
-  Jordanian film to ever premiere at Cannes, winning multiple awards and
-  garnering international attention.
+  Jordan's First Ever Cannes Director, on Filmmaking and the Power of
+  Storytelling
 bio: >-
   Huda Ismail is an Egyptian dentist, writer and poet. Her work has been
   featured in Screen Speck and various literary magazines. She tweets from
   @hudawrites_
 author: Huda Ismail
 description: >-
-  Amjad Al-Rasheed is a Jordanian director, producer and writer born in 1985 in
-  Amman, Jordan. This year, his debut feature Inshallah A Boy became the first
-  Jordanian film to ever premiere at Cannes, winning multiple awards and
-  garnering international attention.
+  Jordan's First Ever Cannes Director, on Filmmaking and the Power of
+  Storytelling
 pubDate: 'September 8, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/_KNM1350.jpg'
 tags:
@@ -24,6 +20,12 @@ tags:
   - Amjad
 layout: ../../layouts/BlogPost.astro
 ---
+
+*Amjad Al-Rasheed is a Jordanian director, producer and writer born in 1985 in Amman, Jordan. This year, his debut feature Inshallah A Boy became the first Jordanian film to ever premiere at Cannes, winning multiple awards and garnering international attention.*
+
+This interview has been edited for length and clarity. 
+
+\_\_\_\_\_
 
 “Being a part of the world of cinema has been a dream I’ve had ever since I was a child.’’Amjad Al-Rasheed tells me.. The gleam in his eyes is apparent, and a smile is drawn upon his face as he speaks, “As a ten-year old, our TV was my portal to viewing the world. In Jordan, we had two channels on TV, one that showed black and white Egyptian films, the ones with Omar El-Sherif, Faten Hamama, Shadia and Abdelhalim. All those films that we grew up watching as Arabs. The other channel showed English and French films. I was very much enchanted by whatever that portal offered me.’’ Some childhood memories and dreams don’t get tarnished by time, they build a home in our limbs and shape us into the adults we become. Al-Rasheed recalls one specific memory fondly, “One day, my mother asked me what I wanted to be when I grew up. My answer was considered unusual, at least to other kids my age. I told her I wanted to become a director.’’ His smile grows wider. “At that age, I obviously didn’t know what being a director meant exactly, but I knew I had so many stories to tell, I knew I always wanted to become a storyteller.’’ 
 
