@@ -13,7 +13,7 @@ const posts = await getCollection("blog", ({ data }) => !data?.draft).then((post
 	return posts
 		.sort((a, b) => a.data.pubDate.getTime() - b.data.pubDate.getTime())
     .reverse()
-		.slice(0, count ?? 6);
+		.slice(0, count ?? 3);
 });
 ---
 
