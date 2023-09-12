@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import { Pill } from '@eliancodes/brutal-ui';
 import SummaryCard from '../generic/SummaryCard.astro';
 import { Button } from '@eliancodes/brutal-ui';
+import { SEO } from "astro-seo";
 
 interface Props {
   post: CollectionEntry<'feature'>;
@@ -29,6 +30,7 @@ const formattedPublishDate = new Date(post.data.pubDate).toLocaleDateString(
   description={post.data.description}
   pubDate={formattedPublishDate}
 >
+<SEO description={post.data.description}></SEO>
   <div class='flex justify-end my-4'>
     </p><Button href={`/feature/${post.slug}/`}><p class='poppins'>Read post &rarr;</p></Button>
   </div>
