@@ -33,7 +33,7 @@ This interview has been edited for length and clarity. 
 
 ![](</omar sharif.webp>)
 
-“As I got older, my obsession with filmmaking didn’t wane, it kept growing as I started to experience cinema through a wider portal; film theaters,’’ he says.
+> “As I got older, my obsession with filmmaking didn’t wane, it kept growing as I started to experience cinema through a wider portal; film theaters,’’ he says.
 
 After finishing high school, the Jordanian director went on to obtain a bachelor's degree in business administration while simultaneously making his entrance and taking the first steps on the path of film-making. “In 2004, I started off as an assistant director, being on set for corporate videos and ads. I was doing all these small scale projects, none of them were TV or film related yet.’’
 
@@ -51,7 +51,7 @@ Al Rasheed’s latest two films, the 2016 short The Parrot and his debut feature
 
 The everyday stories that you hear while you’re going about your life, from your colleagues, friends and relatives are the micro building blocks of our societies, and our perception of these societies we inhabit are translated through the films and art we create. Al-Rasheed accomplishes a very real, embellishment-free depiction of Jordanian and Arab society in general through a uniquely humane approach to storytelling. Still, there’s no doubt that showcasing issues like inequality and structural oppression in Arab society in Inshallah A Boy won’t be met with some controversy and backlash. When I ask him if the weight of future backlash lingers in his mind while writing these stories, he replies “When I’m writing, I don’t think about holding a mirror to the problems in society or the provocative nature of the story. I don’t think that art and cinema should be perceived as messages for social change.’’
 
-“Cinema is a means to ask questions, and my only aim is to tell stories that revolve around real humans, whatever they entail. And if the audience can relate to one of these stories or characters I create, then I’ve achieved my goal.’’
+> “Cinema is a means to ask questions, and my only aim is to tell stories that revolve around real humans, whatever they entail. And if the audience can relate to one of these stories or characters I create, then I’ve achieved my goal.’’
 
 Expanding more on how Al-Rasheed and co-writers Rula Nasser and Delphine Agut navigated this sensitive area surrounding the audience’s reaction while working on Inshallah A Boy “It’s important that we had this sense of predicting our audience’s reaction, but at the same time, that didn’t restrict us from exploring the story. We knew we had to keep the Jordanian and Arabic audience in mind but not in any way that would censor or alter the events of the story.’’ He adds, “When you know your audience, you try to find smart ways to reach them, and that adds complexity and dimension to your characters and story.’’
 
@@ -67,7 +67,7 @@ Al-Rasheed’s international achievement in Cannes earlier in May this year with
 
 Al-Rasheed’s love for cinema is palpable in every syllable he speaks. And when I ask him about the blooming movement (according to his description) that is Jordanian cinema, he passionately explains, “The term ‘industry’ is still a little premature. It’s rather this movement that is still in its budding stages. The attention shifted towards cinematic arts relatively recently with the establishment of the Royal Film Commission, and if you look at countries with well-established film industries, you’ll find that they’re industrial in nature and that the investors earn and profit well.’’ 
 
-“However, that doesn’t negate the fact that we have incredible talent and an extraordinary, professionally trained crew in Jordan that have definitely imprinted their own mark on regional and international cinema. Calling it a movement doesn’t take away from it, it goes to show how determined and hard-working everyone involved is.’’
+> “However, that doesn’t negate the fact that we have incredible talent and an extraordinary, professionally trained crew in Jordan that have definitely imprinted their own mark on regional and international cinema. Calling it a movement doesn’t take away from it, it goes to show how determined and hard-working everyone involved is.’’
 
 On his hopes and dreams for the future of Jordanian cinema, Al-Rasheed expresses, “We’re definitely taking consistent steps, and we’re slowly emerging. I hope one day that the strength of the film industry in Jordan will attract investors from all over the world. And that every city in Jordan will have a film theatre so it’s accessible to everyone, not just in Amman or other major cities.’’
 
