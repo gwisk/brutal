@@ -13,7 +13,9 @@ description: >-
   Jordan's First Ever Cannes Director, on Filmmaking and the Power of
   Storytelling
 pubDate: 'September 8, 2023'
-imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/_KNM1350.jpg'
+imgUrl: >-
+  https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Screenshot
+  2023-09-11 at 5.18.51 PM.png
 tags:
   - Cannes
   - Jordan
