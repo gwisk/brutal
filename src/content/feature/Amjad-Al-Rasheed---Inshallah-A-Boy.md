@@ -19,7 +19,7 @@ imgUrl: >-
 tags:
   - Cannes
   - Jordan
-  - Amjad
+  - Amjad al rasheed
 layout: ../../layouts/BlogPost.astro
 ---
 
