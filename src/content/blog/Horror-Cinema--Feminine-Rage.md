@@ -9,7 +9,7 @@ bio: >-
   neurodivergent heart, the screen is her refuge. She loves watching anime and
   listening to Taylor Swift. She lives with her partner and six cats in India. 
 author: Anuska Roy
-description: A Personal Take on Feminine Rage Through the Lens of Horror
+description: A Personal Take on the Evolution of Feminine Rage Through the Lens of Horror
 pubDate: 'September 15, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/exorcist movie.png'
 tags:
