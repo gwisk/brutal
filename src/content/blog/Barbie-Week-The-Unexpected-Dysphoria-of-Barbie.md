@@ -66,7 +66,4 @@ Being yourself matters more than whatever society thinks of you.
 
 When Barbie realized she couldn’t be “Barbie” anymore and decided to become human, it really struck close to how I realized my own dysphoria. Stripped of everything superficial I believed was “me”, I had no choice but to confront my own experiences and memories. It was then that I realized it was never as simple as being a “man” or “woman.”
 
-
 It was realizing I was just me.
-
-
