@@ -11,7 +11,7 @@ bio: >-
   hanging out with her dog.
 author: Emily Desormier
 description: >-
-  Reconnecting and rebuilding my relationship with my sister through barbie
+  Reconnecting and rebuilding my relationship with my sister through Barbie
   (2023)
 pubDate: 'September 28, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/barbffs.avif'
