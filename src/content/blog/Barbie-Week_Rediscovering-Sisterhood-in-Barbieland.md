@@ -2,7 +2,7 @@
 draft: false
 title: 'Barbie Week: Rediscovering Sisterhood in Barbieland!'
 subtitle: >-
-  Reconnecting and rebuilding my relationship with my sister through barbie
+  Reconnecting and rebuilding my relationship with my sister through Barbie
   (2023)
 bio: >-
   Emily Desormier is a writer based on the New Hampshire Seacoast.  After
@@ -20,7 +20,7 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
-> "You have to wear something pink; we are going to see Barbie!" I playfully scolded my younger sister, Veronica. 
+> "You have to wear something pink; we are going to see Barbie!" I playfully scolded my younger sister, Veronica.
 
 Like seemingly everyone else in the world, we were getting ready to go see the movie of the summer, Barbie. Veronica, completely averse to the color pink, was donning a dark green t-shirt and black shorts. Meanwhile, I was dressed, almost literally, in head-to-toe pink, from the pink sunglasses perched atop my head to the pink sneakers on my feet.
 
