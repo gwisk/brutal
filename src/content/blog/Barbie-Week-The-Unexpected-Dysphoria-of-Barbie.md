@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Barbie Week: The Unexpected Dysphoria of Barbie'
+title: 'Barbie Week: The Unexpected Dysphoria of Barbie!'
 subtitle: >-
   Journeying into the heart of self-realization, identity and societal
   expectations through Barbie (2023)
