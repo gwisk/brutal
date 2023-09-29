@@ -24,10 +24,10 @@ const posts = await getCollection("feature", ({ data }) => !data?.draft).then((p
         Recent Features
       </h2>
       <div class='hidden md:block'>
-        <Button href='/feature/'><p class="poppins">All articles &rarr;</p></Button>
+        <Button href='/feature/'><p class="poppins">All features &rarr;</p></Button>
       </div>
       <div class='block md:hidden'>
-        <Button href='/feature/'><p class="poppins">All articles &rarr;</p></Button>
+        <Button href='/feature/'><p class="poppins">All features &rarr;</p></Button>
       </div>
     </div>
     <FeatureList posts={posts} />
