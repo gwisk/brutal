@@ -10,9 +10,7 @@ description: >-
   Palestinian cinema serves as a reminder continue to pursuing justice and
   freedom without apology
 pubDate: 'October 12, 2023'
-imgUrl: >-
-  https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Screenshot
-  2023-10-12 at 3.56.16 PM.png
+imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/freep2.jpeg'
 tags:
   - Palestinian Cinema
   - Israel
@@ -38,6 +36,6 @@ The act of creating film in an environment where we are seen as less than people
 
 If you are only just now tuning into our struggle, you need to delve deeper. Our casualties have continued to grow for years, yet Palestinians are marginalized, forgotten, and unjustly labeled as terrorists. My home has been turned into an open-air prison. We have tried everything to achieve freedom: diplomacy, boycotts, and peaceful protests, but the rest of the world stays blind to us while Zionists continue to oppress and colonize us. 
 
-![](</cinema of the palestinian revolution.jpeg>)
+![](/freeP.avif)
 
 I refuse to argue with anyone about my own existence, because there is no compromise when it comes to basic human rights. If you don’t think that this is something that Palestinians deserve, then I refuse to engage with you. Our existence is resistance and the world will recognize that Palestinian resistance is not terrorism; it is an earnest plea for justice, an unwavering cry for freedom, and an assertion of our very existence. We will not be coerced into defending or apologizing for our existence, for our existence is our resistance. We will continue to fight, for we embody strength, and that strength is the eternal flame that will guide us to the promise of liberation. Palestine will be free, and the world will bear witness to the thunderous strength of a people who will continue to pursue justice and freedom without apology.
