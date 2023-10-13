@@ -2,12 +2,12 @@
 draft: false
 title: 'Palestinian Cinema: Resistance Is Existence'
 subtitle: >-
-  Palestinian cinema serves as a reminder continue to pursuing justice and
+  Palestinian cinema serves as a reminder to continue to pursue justice and
   freedom without apology
-bio: This is an anonymous submission
+bio: This is an anonymous submission.
 author: Anonymous
 description: >-
-  Palestinian cinema serves as a reminder continue to pursuing justice and
+  Palestinian cinema serves as a reminder to continue to pursue justice and
   freedom without apology
 pubDate: 'October 12, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/freep2.jpeg'
