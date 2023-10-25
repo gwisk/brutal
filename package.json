@@ -43,7 +43,7 @@
     "sharp": "^0.32.6",
     "teenyicons": "^0.4.1",
     "tinacms": "^1.5.22",
-    "vue": "^3.3.6"
+    "vue": "^3.3.7"
   },
   "devDependencies": {
     "@astrojs/partytown": "^2.0.1",
