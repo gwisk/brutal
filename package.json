@@ -15,9 +15,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/sitemap": "3.0.2",
+    "@astrojs/sitemap": "3.0.3",
     "@astrojs/vercel": "^5.1.0",
-    "@astrojs/vue": "^3.0.2",
+    "@astrojs/vue": "^3.0.3",
     "@eliancodes/brutal-ui": "^0.2.2",
     "@fontsource/bungee": "^5.0.17",
     "@fontsource/dm-serif-display": "^5.0.17",
@@ -30,8 +30,8 @@
     "@fontsource/uncut-sans": "^5.0.7",
     "@resvg/resvg-js": "^2.6.0",
     "@tinacms/cli": "^1.5.31",
-    "astro": "^3.4.0",
-    "astro-compress": "^2.1.6",
+    "astro": "^3.4.1",
+    "astro-compress": "^2.2.0",
     "astro-robots-txt": "^1.0.0",
     "astro-seo": "^0.8.0",
     "esbuild": "^0.19.5",
@@ -46,12 +46,12 @@
     "vue": "^3.3.7"
   },
   "devDependencies": {
-    "@astrojs/partytown": "^2.0.1",
+    "@astrojs/partytown": "^2.0.2",
     "@iconify-json/logos": "^1.1.37",
     "@iconify-json/ph": "^1.1.6",
     "@iconify-json/teenyicons": "^1.1.6",
     "@iconify-json/uil": "^1.1.5",
-    "@typescript-eslint/parser": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.1",
     "@unocss/preset-icons": "^0.57.1",
     "@unocss/reset": "^0.57.1",
     "eslint": "^8.52.0",
