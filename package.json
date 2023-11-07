@@ -31,7 +31,7 @@
     "@resvg/resvg-js": "^2.6.0",
     "@tinacms/cli": "^1.5.31",
     "astro": "^3.4.3",
-    "astro-compress": "^2.2.2",
+    "astro-compress": "^2.2.3",
     "astro-robots-txt": "^1.0.0",
     "astro-seo": "^0.8.0",
     "esbuild": "^0.19.5",
@@ -43,7 +43,7 @@
     "sharp": "^0.32.6",
     "teenyicons": "^0.4.1",
     "tinacms": "^1.5.22",
-    "vue": "^3.3.7"
+    "vue": "^3.3.8"
   },
   "devDependencies": {
     "@astrojs/partytown": "^2.0.2",
@@ -51,14 +51,14 @@
     "@iconify-json/ph": "^1.1.6",
     "@iconify-json/teenyicons": "^1.1.6",
     "@iconify-json/uil": "^1.1.5",
-    "@typescript-eslint/parser": "^6.9.1",
-    "@unocss/preset-icons": "^0.57.1",
-    "@unocss/reset": "^0.57.1",
-    "eslint": "^8.52.0",
+    "@typescript-eslint/parser": "^6.10.0",
+    "@unocss/preset-icons": "^0.57.2",
+    "@unocss/reset": "^0.57.2",
+    "eslint": "^8.53.0",
     "eslint-plugin-astro": "^0.29.1",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "prettier": "^3.0.3",
     "prettier-plugin-astro": "^0.12.1",
-    "unocss": "^0.57.1"
+    "unocss": "^0.57.2"
   }
 }
