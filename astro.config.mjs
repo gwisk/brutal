@@ -9,6 +9,7 @@ import robotsTxt from "astro-robots-txt";
 export default defineConfig({
   site: process.env.VERCEL_ENV === 'production' ? 'https://www.filmslop.com/' : process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}/` : 'https://localhost:3001/',
   trailingSlash: 'ignore',
+  prefetch: true,
   integrations: [
     sitemap(), 
     UnoCSS({
@@ -26,5 +27,8 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"]
     }
+  },
+  experimental: {
+    contentCollectionCache: true,
   }
 });
