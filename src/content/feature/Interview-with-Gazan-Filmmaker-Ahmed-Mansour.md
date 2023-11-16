@@ -20,7 +20,7 @@ layout: ../../layouts/BlogPost.astro
 
 **Ahmed Mansour**:  Believe it or not, I originally intended the story to be told through the eyes of the father. So, for years, that was the intention. And the film was almost ready in April 2020, until I had an incident where I lost all the footage and the final cut of the film.
 
-In April 2020, I was editing in my studio in upstate New York, in the Catskills, in the mountains. And in the middle of the night, my friend and I woke up to a fire coming out of the chimney. All my equipment and my hard drives were burnt. And I was so close to backing it up. I said,  you know, the next day or the next day after, I'll back it up. But the fire was faster.
+In April 2020, I was editing in my studio in upstate New York, in the Catskills, in the mountains. And in the middle of the night, my friend and I woke up to a fire coming out of the chimney. All my equipment and my hard drives were burnt. And I was so close to backing it up. I said, you know, the next day or the next day after, I'll back it up. But the fire was faster.
 
 Of course, that was a very devastating event. You work for years on a project, and then, psh, it's gone. It was quite tragic, but, you know, I'm from Gaza, so I never give up. Because the phoenix, it’s a Gazan phenomenon. And by that time, Malak was a little bit older, so she was a little bit more articulate. When I started filming, she was really young, around 5. I realized how articulate Malak is, and I said, “How about we test a new main character?” and see if it was going to be more effective. And we just did that. Me and the producers and the crew, all of us together, we kind of said, “Thank God the fire happened!”
 
@@ -28,7 +28,7 @@ That was the angle: Malak is the angel. So, we're like, let's re-write the scene
 
 That’s the story of the film. When you think about it, sometimes or most of the times, the filmmaker is the one who makes the film, right? But for me, “Angel of Gaza” truly is the film that made me who I am, in terms of shaping my artistic vision, in terms of learning how to work out a story, even personally. That time was a very hard time. It was the beginning of COVID. I had been away from my family for five years exactly at that time, I wasn’t able to go back to Gaza, not being able to meet with my family. So, making this film was really a life-changing project, let me put it that way.
 
-**GI** : Thank you for sharing the story of the film. I'm glad you made it and that it's out there, even though the process of making it was long and difficult. Reshooting  is not easy, especially when it's a documentary. You pulled it off very well, I didn't realize at all!
+**GI**: Thank you for sharing the story of the film. I'm glad you made it and that it's out there, even though the process of making it was long and difficult. Reshooting  is not easy, especially when it's a documentary. You pulled it off very well, I didn't realize at all!
 
 Given all the awful things that are happening in Gaza, there's a lot of attention being put on Palestinian cinema. Organizations like the Arab Film and Media Institute are putting together Palestinian movie programming. I've seen that "Angel of Gaza" is in one of the films that's available for people to watch. So many more people are seeing the film. How has that been for you? What have the reactions been?
 
