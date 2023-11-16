@@ -7,7 +7,7 @@ bio: >-
   of Gaza" (https://arabfilminstitute.org/palestinian-voices/) and runs the Gaza
   Ambassador project (https://www.facebook.com/gazaambassador).
 author: George Iskander
-description: My interview with Ahmed Mansour
+description: Filmslop Exclusive Interview with Ahmed Mansour
 pubDate: 'Nov 16, 2023'
 imgUrl: 'https://assets.tina.io/245d5579-bc1c-46cb-b995-0d1af0996847/Ahmed.png'
 tags:
