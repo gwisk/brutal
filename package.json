@@ -30,7 +30,7 @@
     "@fontsource/uncut-sans": "^5.0.7",
     "@resvg/resvg-js": "^2.6.0",
     "@tinacms/cli": "^1.5.31",
-    "astro": "^3.5.4",
+    "astro": "^3.5.5",
     "astro-compress": "^2.2.3",
     "astro-robots-txt": "^1.0.0",
     "astro-seo": "^0.8.0",
