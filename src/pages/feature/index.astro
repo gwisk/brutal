@@ -4,7 +4,7 @@ import Layout from '@layouts/Default.astro';
 import FeatureList from '@components/feature/FeatureList.astro';
 
 const posts = await getCollection("feature").then((collection) => {
-	return collection.sort(
+	return collection.reverse().sort(
 		(a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
 	);
 });
