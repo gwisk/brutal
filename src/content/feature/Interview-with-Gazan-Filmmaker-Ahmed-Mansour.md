@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Interview with Gazan Filmmaker Ahmed Mansour
 subtitle: '"Angel of Gaza," Advocacy, and Documenting the Nakba'
 bio: >-
