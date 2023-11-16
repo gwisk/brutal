@@ -16,6 +16,10 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
+Ahmed Mansour is a US-based filmmaker from Gaza. He is a graduate of NYU and political advocate for Palestine. He is one of the co-founders of the Gaza Ambassador program. He has directed the films "Angel of Gaza" and "Brooklyn Inshallah." Ahmed has received residencies and fellowships from Duke University and the Paths to Peace Leadership Program. 
+
+I first met Ahmed at the 2023 Chicago Palestine Film Festival at a screening of his short "Angel of Gaza," a short film that has been on my mind ever since I saw it in April. So, when I had a chance to talk to Ahmed about his work and his films, I jumped at the opportunity.
+
 **George Iskander**: Ahmed, I first came to know you and your work through the Chicago Palestine Film Festival. We had a very great lineup of films this year, and one of my favorites was “Angel of Gaza.” One of the things I  liked most about it was that it did so much with how little time it had. In the film, we're introduced to problems that people in Gaza face, we're introduced to this family, we're introduced to Malak, and you see things through the eyes of the child, and it's very powerful. You see their journey to America, and then suddenly, it's over, and you can't believe it's 20 minutes. A lot of my friends echoed the same sentiment. One thing I'm curious about is how was your experience making this film? I ask because parts of it were filmed, from what I understand, in Gaza.
 
 **Ahmed Mansour**:  Believe it or not, I originally intended the story to be told through the eyes of the father. So, for years, that was the intention. And the film was almost ready in April 2020, until I had an incident where I lost all the footage and the final cut of the film.
@@ -73,3 +77,5 @@ The second part that helps us to understand what's happening is the revolution p
 We have to keep pushing. We have to get up every morning and just interact in this society. Talk to people and guide people. Trust me, they will see the light when they engage with us. Because all that has been seen so far is darkness. “He brings them out of darkness and into light.” \[Quran 2:257]
 
 **GI**: One of the best things that we can do is interact with people and show them the media that they're consuming is propaganda. It's lies. We are for a cause. We tell them what's happening in Palestine, in Gaza. We show them that our cause is right, that our principles are right. That's going to shake them. Their hearts and minds are going to be changed. Insha'Allah. Thank you so much for this Ahmed.
+
+You can can connect with Ahmed through the Gaza Ambassador program (on Facebook), and his short "Angel of Gaza" is available to watch through the end of November through the Arab Film and Media Institute.
