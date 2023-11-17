@@ -16,9 +16,9 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
-Ahmed Mansour is a US-based filmmaker from Gaza. He is a graduate of NYU and political advocate for Palestine. He is one of the co-founders of the Gaza Ambassador program. He has directed the films "Angel of Gaza" and "Brooklyn Inshallah." Ahmed has received residencies and fellowships from Duke University and the Paths to Peace Leadership Program. 
+Ahmed Mansour is a US-based filmmaker from Gaza. He is a graduate of NYU and political advocate for Palestine. He is one of the co-founders of the Gaza Ambassador program. He has directed the films "Angel of Gaza" and "Brooklyn Inshallah." Ahmed has received residencies and fellowships from Duke University and the Paths to Peace Leadership Program.
 
-I first met Ahmed at the 2023 Chicago Palestine Film Festival at a screening of his short "Angel of Gaza," a short film that has been on my mind ever since I saw it in April. So, when I had a chance to talk to Ahmed about his work and his films, I jumped at the opportunity.
+I first met Ahmed Mansour at the 2023 Chicago Palestine Film Festival at a screening of his short "Angel of Gaza," a short film that has been on my mind ever since I saw it in April. So, when I had a chance to talk to Ahmed about his work and his films, I jumped at the opportunity.
 
 **George Iskander**: Ahmed, I first came to know you and your work through the Chicago Palestine Film Festival. We had a very great lineup of films this year, and one of my favorites was “Angel of Gaza.” One of the things I  liked most about it was that it did so much with how little time it had. In the film, we're introduced to problems that people in Gaza face, we're introduced to this family, we're introduced to Malak, and you see things through the eyes of the child, and it's very powerful. You see their journey to America, and then suddenly, it's over, and you can't believe it's 20 minutes. A lot of my friends echoed the same sentiment. One thing I'm curious about is how was your experience making this film? I ask because parts of it were filmed, from what I understand, in Gaza.
 
