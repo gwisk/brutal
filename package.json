@@ -29,7 +29,7 @@
     "@fontsource/sanchez": "^5.0.17",
     "@fontsource/uncut-sans": "^5.0.7",
     "@resvg/resvg-js": "^2.6.0",
-    "@tinacms/cli": "^1.5.31",
+    "@tinacms/cli": "^1.5.33",
     "astro": "^3.5.5",
     "astro-compress": "^2.2.3",
     "astro-robots-txt": "^1.0.0",
@@ -42,23 +42,23 @@
     "satori-html": "^0.3.2",
     "sharp": "^0.32.6",
     "teenyicons": "^0.4.1",
-    "tinacms": "^1.5.22",
+    "tinacms": "^1.5.24",
     "vue": "^3.3.8"
   },
   "devDependencies": {
     "@astrojs/partytown": "^2.0.2",
-    "@iconify-json/logos": "^1.1.37",
+    "@iconify-json/logos": "^1.1.38",
     "@iconify-json/ph": "^1.1.6",
     "@iconify-json/teenyicons": "^1.1.6",
     "@iconify-json/uil": "^1.1.5",
     "@typescript-eslint/parser": "^6.11.0",
-    "@unocss/preset-icons": "^0.57.4",
-    "@unocss/reset": "^0.57.4",
-    "eslint": "^8.53.0",
+    "@unocss/preset-icons": "^0.57.5",
+    "@unocss/reset": "^0.57.5",
+    "eslint": "^8.54.0",
     "eslint-plugin-astro": "^0.29.1",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "prettier": "^3.1.0",
     "prettier-plugin-astro": "^0.12.2",
-    "unocss": "^0.57.4"
+    "unocss": "^0.57.5"
   }
 }
