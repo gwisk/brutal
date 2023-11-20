@@ -16,7 +16,7 @@ tags:
 layout: ../../layouts/BlogPost.astro
 ---
 
-I first met Ahmed Mansour—a US-based Gazan filmmaker and director of Angel of Gaza (2021) and Brooklyn Inshallah (2021)—at the 2023 Chicago Palestine Film Festival at a screening of his short Angel of Gaza, a short film that has been on my mind ever since I saw it earlier this year. . He is one of the co-founders of the Gaza Ambassador program, a graduate of NYU and a political advocate for Palestine. Mansour has been awarded residencies and fellowships from Duke University and the Paths to Peace Leadership Program.
+I first met Ahmed Mansour—a US-based Gazan filmmaker and director of Angel of Gaza (2021) and Brooklyn Inshallah (2021)—at the 2023 Chicago Palestine Film Festival at a screening of his short Angel of Gaza, which has been on my mind ever since I saw it earlier this year. . He is one of the co-founders of the Gaza Ambassador program, a graduate of NYU and a political advocate for Palestine. Mansour has been awarded residencies and fellowships from Duke University and the Paths to Peace Leadership Program.
 
  Angel of Gaza follows a family separated for over 7 years: the father, Ayman, lives in the United States, while his wife and daughter, Malak, live in Gaza. The film is framed around Malak, who narrates the film. Mansour traces the complex familial struggles and trauma faced by many families in Occupied Palestine and beyond through this family’s difficult journey and joyful reunion.  His film captures both the suffering of Palestine without overshadowing the joy to be found in shared family life.
 
