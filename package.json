@@ -9,11 +9,13 @@
   },
   "scripts": {
     "dev": "tinacms dev -c 'astro dev'",
+    "preinstall": "npx only-allow pnpm",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
+  
   "dependencies": {
     "@astrojs/sitemap": "3.0.3",
     "@astrojs/vercel": "^5.2.0",
