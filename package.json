@@ -8,9 +8,10 @@
     "name": "George Iskander, Ali El-Sadany"
   },
   "scripts": {
-    "dev": "tinacms dev -c 'astro dev'",
+    "dev": "tinacms dev -c \"astro dev\"",
     "preinstall": "npx only-allow pnpm",
     "start": "astro dev",
+    "prebuild": "node scripts/replaceAssetPaths.js",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
