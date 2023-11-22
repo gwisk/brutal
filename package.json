@@ -43,7 +43,7 @@
     "satori-html": "^0.3.2",
     "sharp": "^0.32.6",
     "teenyicons": "^0.4.1",
-    "tinacms": "^1.5.22",
+    "tinacms": "^1.5.20",
     "vue": "^3.3.8"
   },
   "devDependencies": {
