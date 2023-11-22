@@ -31,8 +31,8 @@
     "@fontsource/sanchez": "^5.0.17",
     "@fontsource/uncut-sans": "^5.0.7",
     "@resvg/resvg-js": "^2.6.0",
-    "@tinacms/cli": "^1.5.35",
-    "astro": "^3.5.7",
+    "@tinacms/cli": "^1.5.36",
+    "astro": "^3.6.0",
     "astro-robots-txt": "^1.0.0",
     "astro-seo": "^0.8.0",
     "esbuild": "^0.19.7",
@@ -43,7 +43,7 @@
     "satori-html": "^0.3.2",
     "sharp": "^0.32.6",
     "teenyicons": "^0.4.1",
-    "tinacms": "^1.5.20",
+    "tinacms": "^1.5.26",
     "vue": "^3.3.8"
   },
   "devDependencies": {
