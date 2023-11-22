@@ -15,7 +15,6 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  
   "dependencies": {
     "@astrojs/sitemap": "3.0.3",
     "@astrojs/vercel": "^5.2.0",
@@ -43,7 +42,7 @@
     "satori-html": "^0.3.2",
     "sharp": "^0.32.6",
     "teenyicons": "^0.4.1",
-    "tinacms": "^1.5.25",
+    "tinacms": "^1.5.22",
     "vue": "^3.3.8"
   },
   "devDependencies": {
